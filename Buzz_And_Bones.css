@@ -112,3 +112,5 @@ footer >p{color: #00f2ce}
   50% { transform: translate(90vw, 90vh); }
   75% { transform: translate(20vw, 30vh); }
   100% { transform: translate(50vw, 50vh); }}
+img {
+  max-width: 100%; height: auto; display: block;  margin: 0 auto;}
