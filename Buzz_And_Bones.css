@@ -1,0 +1,114 @@
+/* Book 1 Page Styles */
+body {font-family: 'Arial', sans-serif; background-color: #000000; color: #ffffff; margin: 0; padding: 0;z-index: -2}
+
+header {background-color: #925300;padding: 20px 0;text-align: center; color: #00f2ce;z-index: -2}
+
+h1 {font-size: 36px; margin: 0;text-decoration: underline;z-index:1}
+
+h2 {font-size: 28px; margin-top: 20px; text-decoration: underline;text-align: center; color: #00f2ce;z-index:1}
+
+.cover{z-index: -2}
+
+.spine{z-index: -2}
+
+p {text-align: center; ; color: #ff9100;z-index:1}
+
+ul{list-style-position: inside; color: #00ecc9; text-align: center;z-index:1}
+
+.Bone-Pile {opacity: 0;animation: fadeIn ease 6s;animation-fill-mode: forwards;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;
+}
+
+@keyframes fadeIn {0% { opacity: 0; }100% { opacity: 1; }}
+.Bone {width: 50px;height: 75px;position: absolute;top: 0;left: 20%;transform: translateX(-50%);animation: fall 2s linear forwards;}
+
+.Bone1 {width: 50px;height: 75px;position:absolute;top: 0;left: 31%;transform: translateZ(40%);animation: fall 1s linear forwards;}
+
+.Bone2 {width: 50px;height: 75px;position:absolute;top: 0;left: 34%;transform: translateZ(40%);animation: fall 3s linear forwards;}
+
+.Bone3 {width: 50px;height: 75px;position:absolute;top: 0;left: 35%;transform: translateZ(40%);animation: fall 3s linear forwards;}
+
+.Bone4 {width: 50px;height: 75px;position:absolute;top: 0;left: 41%;transform: translateZ(40%);animation: fall 1s linear forwards;}
+
+.Bone5 {width: 50px;height: 75px;position:absolute;top: 0;left: 44%;transform: translateZ(40%);animation: fall 2s linear forwards;}
+
+.Bone6 {width: 50px;height: 75px;position:absolute;top: 0;left: 47%;transform: translateZ(40%);animation: fall 2s linear forwards;}
+.Bone7 {width: 50px;height: 75px;position:absolute;top: 0;left: 53%;transform: translateZ(40%);animation: fall 1s linear forwards;}
+.Bone8 {width: 50px;height: 75px;position:absolute;top: 0;left: 55%;transform: translateZ(40%);animation: fall 3s linear forwards;}
+.Bone9 {width: 50px;height: 75px;position:absolute;top: 0;left: 62%;transform: translateZ(40%);animation: fall 2s linear forwards;}
+.Bone10 {width: 50px;height: 75px;position:absolute;top: 0;left: 67%;transform: translateZ(40%);animation: fall 1s linear forwards;}
+.Bone11 {width: 50px;height: 75px;position:absolute;top: 0;left: 72%;transform: translateZ(40%);animation: fall 3s linear forwards;}
+.Bone12 {width: 50px;height: 75px;position:absolute;top: 0;left: 78%;transform: translateZ(40%);animation: fall 3s linear forwards;}
+.Bone13 {width: 50px;height: 75px;position:absolute;top: 0;left: 80%;transform: translateZ(40%);animation: fall 2s linear forwards;}
+.Bone14 {width: 50px;height: 75px;position:absolute;top: 0;left: 86%;transform: translateZ(40%);animation: fall 1s linear forwards;}
+.Bone15 {width: 50px;height: 75px;position:absolute;top: 0;left: 93%;transform: translateZ(40%);animation: fall 2s linear forwards;}
+@keyframes fall {
+  0% {top: 0;opacity: 1;}
+  80% {top: calc(100vh - 75px);opacity: 1;}
+  100% {top: calc(100vh - 75px);opacity: 0;}}
+
+
+ul {color: #00f2ce}
+
+li {color: #ff9100}
+
+strong {color: #00f2ce;z-index:1}
+
+nav {display: flex; justify-content: center; background-color: #000000; padding: 10px 0;z-index:-2}
+
+nav a {color: #00f2ce; text-decoration: none; padding: 15px 25px; font-size: 18px;z-index:-2;border-radius: 50px}
+
+.book-content {padding: 30px;text-align: center;}
+
+.book-content h2 {font-size: 24px;margin-top: 20px;color: #FFD700;}
+
+.book-content p {font-size: 18px;line-height: 1.6;max-width: 900px;margin: 0 auto;}
+
+.book-content .synopsis {background-color: #2c2c2c;padding: 20px;margin-top: 30px;}
+
+.book-content .character-list {background-color: #2c2c2c;padding: 20px;margin-top: 30px;}
+
+.book-content .button {background-color: #FFD700;color: #333;border: none;padding: 15px 25px;font-size: 20px;cursor: pointer;text-transform: uppercase;margin-top: 30px;}
+
+.BEEES {width: 275px; height: 300px;}
+
+
+body, html {margin: 0;padding: 0;height: 100vh;width: 100vw;max-width: 100%;overflow-x: hidden;}
+
+nav a {color: #00f2ce;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #925300;border-style: solid;border-color: #ff9100}
+a:hover {color: #000000;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #00f2ce;border-style: solid;border-color: #b3784b}
+
+.back-to-top {color: #00f2ce;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #925300;border-style: solid;border-color: #ff9100;border-radius: 50px}
+
+.back-to-top:hover {color: #000000;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #00f2ce;border-style: solid;border-color: #b3784b}
+
+footer {background-color: #925300; padding: 15px; text-align: center; color: #00f2ce; margin-top: 50px;}
+footer >p{color: #00f2ce}
+.bee-wrapper {position: relative;width: 0;height: 0;overflow: visible;pointer-events: none; /* bees won't block underlying content */}
+
+.bee {position: absolute;width: 125px; /* or smaller if needed */height: auto;top: 0;left: 0;pointer-events:all; /* allow clicking */z-index: 1;}
+
+.bee1 {animation: fly1 15s infinite linear; z-index: 2}
+
+.bee2 {animation: fly2 18s infinite linear;}
+
+.bee3 {animation: fly3 20s infinite linear;}
+
+@keyframes fly1 {
+  0% { transform: translate(0%, 0%); }
+  25% { transform: translate(70vw, 10vh); }
+  50% { transform: translate(30vw, 80vh); }
+  75% { transform: translate(90vw, 50vh); }
+  100% { transform: translate(0%, 0%); }}
+
+@keyframes fly2 {
+  0% { transform: translate(10vw, 90vh); }
+  25% { transform: translate(60vw, 40vh); }
+  50% { transform: translate(20vw, 10vh); }
+  75% { transform: translate(80vw, 70vh); }
+  100% { transform: translate(10vw, 90vh); }}
+@keyframes fly3 {
+  0% { transform: translate(50vw, 50vh); }
+  25% { transform: translate(10vw, 10vh); }
+  50% { transform: translate(90vw, 90vh); }
+  75% { transform: translate(20vw, 30vh); }
+  100% { transform: translate(50vw, 50vh); }}
