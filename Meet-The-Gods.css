@@ -1,0 +1,219 @@
+body {font-family: 'Arial', sans-serif;background-color: #000000;color: #ffffff; margin: 0; padding: 0;}
+
+header {background-color: #39004c; padding: 20px 0; text-align: center; color: goldenrod;}
+
+h1 {font-size: 36px; margin: 0;}
+
+h2 {font-size: 30px; margin-top: 20px; text-align: center;}
+
+h3 {font-size: 24px; margin-top: 20px; text-align: center;}
+
+p {text-align: center}
+
+a {color: goldenrod;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #be00ff;border-radius: 50px}
+a:hover {color: #000000;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: goldenrod;border-style: solid;border-color: #be00ff}
+
+.relation-link {color: inherit;text-decoration: none;background-color: transparent;border: none;padding: 0;font-size: inherit;}
+.relation-link:hover{text-decoration: underline;background-color: transparent;border: none;color:inherit;padding: 0;font-size: inherit}
+
+
+.card-container {display: flex;flex-wrap: wrap;justify-content: center;padding-bottom: 20px; grid-row-gap: 20px}
+
+
+/* Base card styling */
+.card {border-radius: 10px;width: 260px;text-align: center;box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);border: 2px solid transparent;transition: transform 0.3s ease;background-color: #111}
+
+.card-nytheris:hover {transform: translateY(-15px);}
+.card-ignivelle:hover {transform: translateY(-15px);}
+.card-sylvana:hover {transform: translateY(-15px);}
+.card-thalassos:hover {transform: translateY(-15px);}
+.card-chronis:hover {transform: translateY(-15px);}
+.card-astraea:hover {transform: translateY(-15px);}
+.card-umbrya:hover {transform: translateY(-15px);}
+.card-eclipsa:hover {transform: translateY(-15px);}
+.card-luminara:hover {transform: translateY(-15px);}
+
+img {width: 137.5px; display: flex; flex-direction: row;flex-wrap: wrap;justify-content: center}
+.card h3 {font-size: 20px;margin: 0 0 8px 0;color: goldenrod;}
+
+.card small {display: block;margin-top: 4px;font-size: 12color: #bbbbbb;}
+
+/* Themed Cards */
+
+
+.card-nytheris {background: linear-gradient(to bottom, #0f0f0f, #2a2a2a);border-color: silver; color:#c0c0c0;border-style:solid;padding-bottom: 20px; width:260px}
+
+.card-ignivelle {background: linear-gradient(to bottom, #800000, #ff4500);border-color: #ffae00; color:#ffae00;border-style:solid;padding-bottom: 20px; width:260px}
+
+.card-sylvana {background: linear-gradient(to bottom, #2e8b57, #8b4513);border-color: #a0c96e; color:#f5f5dc;border-style:solid;padding-bottom: 20px; width:260px}
+
+.card-thalassos {background: linear-gradient(to bottom, #001f3f, #0074d9);border-color: #7fdbff; color:#00dbdb;border-style:solid;padding-bottom: 20px; width:260px}
+
+.card-chronis {background: linear-gradient(to bottom, #3e2f2f, #7b68ee);border-color: #913b00; color:#000080;border-style:solid;padding-bottom: 20px; width:260px}
+
+.card-astraea {background: linear-gradient(to bottom, #191970, #4b0082);border-color: #b0c4de; color:#d8d8d8;border-style:solid;padding-bottom: 20px; width:260px}
+
+.card-umbrya {background: linear-gradient(to bottom, #2f2f2f, #4b0082);border-color: #9370db; color:#d8bfd8;border-style:solid;padding-bottom: 20px; width:260px}
+
+.card-eclipsa {background: linear-gradient(to bottom, #4b0082, #b76e79);border-color: #ffc0cb; color:#b0c4de;border-style:solid;padding-bottom: 20px; width:260px}
+
+.card-luminara {background: linear-gradient(to bottom, #fffacd, #ffd700);color: #000;border-color: #f0e68c; color:#8b4513;border-style:solid;padding-bottom: 20px; width:260px}
+
+/*Gen 2 Styles*/
+.card-serendya {background: linear-gradient(to bottom, #ffa2d1, #ff1493);border-color: #ffff05;color: #ffff05;border-style: solid;padding-bottom: 20px;width: 260px}
+.card-serendya:hover {transform: translateY(-15px);}
+
+.card-teralis {background: linear-gradient(to bottom, #98fb98, #00ced1); border-color: #186060; color: #003f3f; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-teralis:hover {transform: translateY(-15px);}
+
+.card-volthar {background: linear-gradient(to bottom, #8b0000, #b22222); border-color: #ff4500; color: #ffdead; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-volthar:hover {transform: translateY(-15px);}
+
+.card-harmysia {background: linear-gradient(to bottom, #ffe4e1, #ffdab9); border-color: #f08080; color: #800000; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-harmysia:hover {transform: translateY(-15px);}
+
+.card-aurivelle {background: linear-gradient(to bottom, #ffd700, #daa520); border-color: #00674f; color: #00674f; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-aurivelle:hover {transform: translateY(-15px);}
+
+.card-ithalyn {background: linear-gradient(to bottom, #e0f7fa, #add8e6); border-color: #1e90ff; color: #1e90ff; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-ithalyn:hover {transform: translateY(-15px);}
+
+.card-sythra {background: linear-gradient(to bottom, #4b0082, #8b00ff); border-color: #da70d6; color: #e0ffff; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-sythra:hover {transform: translateY(-15px);}
+
+.card-eryndor {background: linear-gradient(to bottom, #556b2f, #8b4513); border-color: #a0522d; color: #f0fff0; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-eryndor:hover {transform: translateY(-15px);}
+
+.card-zephyros {background: linear-gradient(to bottom, #87ceeb, #00bfff); border-color: #b0e0e6; color: #004f7c; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-zephyros:hover {transform: translateY(-15px);}
+
+.card-phorathos {background: linear-gradient(to bottom, #f5f500, #0047ab); border-color: #ffffe0; color: #ffff9e; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-phorathos:hover {transform: translateY(-15px);}
+
+.card-pyrrhion {background: linear-gradient(to bottom, #ff4500, #ff69b4); border-color: #ff8c00; color: #fff5ee; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-pyrrhion:hover {transform: translateY(-15px);}
+
+.card-vorathis {background: linear-gradient(to bottom, #333333, #ffffff); border-color: #999999; color: #111111; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-vorathis:hover {transform: translateY(-15px);}
+
+.card-kytheron {background: linear-gradient(to bottom, #7cfc00, #228b22); border-color: #adff2f; color: #002200; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-kytheron:hover {transform: translateY(-15px);}
+
+.card-veydris {background: linear-gradient(to bottom, #f5f5dc, #dcdcdc); border-color: #708090; color: #2f4f4f; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-veydris:hover {transform: translateY(-15px);}
+
+.card-soltheron {background: linear-gradient(to bottom, #ffa500, #ffd700); border-color: #d68046; color: #2f1f00; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-soltheron:hover {transform: translateY(-15px);}
+
+.card-lunthera {background: linear-gradient(to bottom, #dcdcdc, #191970); border-color: #e6e6fa; color: #fffafa; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-lunthera:hover {transform: translateY(-15px);}
+
+
+/*Gen 3 Styles*/
+.card-kalthor {background: linear-gradient(to bottom, #708090, #8B5A2B); border-color: #f0981d; color: #f0981d
+  ; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-kalthor:hover {transform: translateY(-15px);}
+
+.card-elthara {background: linear-gradient(to bottom, #DAA520, #808000); border-color: #6b882b; color: #afff00; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-elthara:hover {transform: translateY(-15px);}
+
+.card-mythora {background: linear-gradient(to bottom, #4B0082, #C0C0C0); border-color: #2d0042; color: #2d0042; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-mythora:hover {transform: translateY(-15px);}
+
+.card-aetherion {background: linear-gradient(to bottom, #B0C4DE, #00FFFF); border-color: #716ec8; color: #716ec8; border-style: solid; padding-bottom: 20px; width: 260px;}
+.card-aetherion:hover {transform: translateY(-15px);}
+
+
+.card-faelys {background: linear-gradient(to bottom, #00A86B, #F7E7CE);color: #1f2e1f;border-style:solid;border-color: #00A86B; padding-bottom: 20px; width: 260px;}
+.card-faelys:hover{transform: translateY(-15px);}
+
+.card-erythros {background: linear-gradient(to bottom, #782F40, #E2DAC9);color: #440000;border-style: solid;border-color: #782F40; padding-bottom: 20px; width: 260px;}
+.card-erythros:hover {transform: translateY(-15px);}
+
+.card-lyrannis {background: linear-gradient(to bottom, #CC7722, slateblue);color: #81be86; /* slate text */border-style: solid; border-color:#81be86; padding-bottom: 20px; width: 260px;}
+.card-lyrannis:hover {transform: translateY(-15px);}
+
+.card-chaltheron {background: linear-gradient(to bottom, coral, #f0e3ce);color: #772222;border-style:solid;border-color:coral; padding-bottom: 20px; width: 260px;}
+.card-chaltheron:hover {transform: translateY(-15px)}
+
+.card-embrithis{background: linear-gradient(to bottom, #A97060, #4682B4);color: #222831;border-style: solid;border-color: #5cb5ff; padding-bottom: 20px; width: 260px;}
+.card-embrithis:hover {transform: translateY(-15px)}
+
+.card-draconyx {background: linear-gradient(to bottom, #E42217, #132019);color: #fd9090;border-style: solid;border-color:  #fd9090; padding-bottom: 20px; width: 260px;}
+.card-draconyx:hover {transform: translateY(-15px)}
+
+.card-nythalos {background: linear-gradient(to bottom, #7d786a, #65a096);color: #00323c;border-style:solid;border-color: #00323c; padding-bottom: 20px; width: 260px;}
+.card-nythalos:hover {transform: translateY(-15px)}
+
+.card-typhora {background: linear-gradient(to bottom, #AA2704, #964a00);color: #331c1c; border-style:solid;border-color:  #AA2704; padding-bottom: 20px; width: 260px;}
+.card-typhora:hover {transform: translateY(-15px)}
+
+.card-silvaris {background: linear-gradient(to bottom, #373a3d, #D6C8DF);color: #eaeaea;border-style:solid;border-color:  #eaeaea;padding-bottom: 20px; width: 260px;}
+.card-silvaris:hover {transform: translateY(-15px)}
+
+.card-melithra {background: linear-gradient(to bottom, #e30022, #EEC6A9);color: #3d1a1a;border-style:solid;border-color:  #e30022;padding-bottom: 20px;width: 260px}
+.card-melithra:hover{transform: translateY(-15px)}
+
+.card-corvanyx {background: linear-gradient(to bottom, #400053, #565656);color: #8F8176;border-style:solid;border-color:  #8F8176;padding-bottom: 20px;width: 260px}
+.card-corvanyx:hover{transform: translateY(-15px)}
+
+.card-orthanyx {background: linear-gradient(to bottom, #483C32, #D8BFD8);color: #72007e;border-style:solid;border-color:#D8BFD8;padding-bottom: 20px;width: 260px}
+.card-orthanyx:hover{transform: translateY(-15px)}
+
+.card-opulyria {background: linear-gradient(to bottom, #00A870, #B8860B); color: #006400; border-style: solid; border-color: #2E8B57; padding-bottom: 20px; width: 260px;}
+.card-opulyria:hover {transform: translateY(-15px);}
+
+.card-vindictrix {background: linear-gradient(to bottom, #E34234, #2C3539); color: #E0FFFF; border-style: solid; border-color: #A52A2A; padding-bottom: 20px; width: 260px;}
+.card-vindictrix:hover {transform: translateY(-15px);}
+
+.card-terroryx {background: linear-gradient(to bottom, #0A0A0A, #FF2400); color: #D3D3D3; border-style: solid; border-color: #800000; padding-bottom: 20px; width: 260px;}
+.card-terroryx:hover {transform: translateY(-15px);}
+
+/*Gen 4*/
+.card-animira {background: linear-gradient(to bottom, #2A52BE, #FFBF00); color: #191970; border-style: solid; border-color: #6495ED; padding-bottom: 20px; width: 260px;}
+.card-animira:hover {transform: translateY(-15px);}
+
+.card-architectura {background: linear-gradient(to bottom, #1E3D59, #A9A9A9); color: #E8E8E8; border-style: solid; border-color: #3A6EA5; padding-bottom: 20px; width: 260px;}
+.card-architectura:hover {transform: translateY(-15px);}
+
+.card-chromatica{background: linear-gradient(to bottom, #ff4242,#FF8C42,#fff442,#45ff42,#42fff5,#4269ff,#8e55ff,#d842ff,#ff42d6); color: #000000; border-style: solid; border-color: #000000; padding-bottom: 20px; width: 260px;}
+.card-chromatica:hover {transform: translateY(-15px);}
+
+.card-culinara {background: linear-gradient(to bottom, #FF8C42, #A13D2D); color: #FFFACD; border-style: solid; border-color: #FF5733; padding-bottom: 20px; width: 260px;}
+.card-culinara:hover {transform: translateY(-15px);}
+
+.card-domura {background: linear-gradient(to bottom, #E27D60, #FF7F50); color: #4A2511; border-style: solid; border-color: #CD5C5C; padding-bottom: 20px; width: 260px;}
+.card-domura:hover {transform: translateY(-15px);}
+
+.card-gemantra {background: linear-gradient(to bottom, #121212, #FFD966); color: #F0FFF0; border-style: solid; border-color: #D4AF37; padding-bottom: 20px; width: 260px;}
+.card-gemantra:hover {transform: translateY(-15px);}
+
+.card-heralys {background: linear-gradient(to bottom, #C0C0C0, #FFBF00); color: #3A3A3A; border-style: solid; border-color: #808080; padding-bottom: 20px; width: 260px;}
+.card-heralys:hover {transform: translateY(-15px);}
+
+.card-ludarius {background: linear-gradient(to bottom, #008080, #FFD700); color: #00008B; border-style: solid; border-color: #20B2AA; padding-bottom: 20px; width: 260px;}
+.card-ludarius:hover {transform: translateY(-15px);}
+
+.card-maritaya {background: linear-gradient(to bottom, #800080, #FFFFF0); color: #4B0082; border-style: solid; border-color: #9932CC; padding-bottom: 20px; width: 260px;}
+.card-maritaya:hover {transform: translateY(-15px);}
+
+.card-medeina {background: linear-gradient(to bottom, #F0FFF0, #2E8B57); color: #2F4F4F; border-style: solid; border-color: #98FB98; padding-bottom: 20px; width: 260px;}
+.card-medeina:hover {transform: translateY(-15px);}
+
+.card-pedagogus {background: linear-gradient(to bottom, #800020, #FFFFF0); color: #4B0082; border-style: solid; border-color: #8B0000; padding-bottom: 20px; width: 260px;}
+.card-pedagogus:hover {transform: translateY(-15px);}
+
+.card-rithmosa {background: linear-gradient(to bottom, #4169E1, #ff00f3); color: #000080; border-style: solid; border-color: #1E90FF; padding-bottom: 20px; width: 260px;}
+.card-rithmosa:hover {transform: translateY(-15px);}
+
+.card-somnorys {background: linear-gradient(to bottom, #191970, #778899); color: #E6E6FA; border-style: solid; border-color: #483D8B; padding-bottom: 20px; width: 260px;}
+.card-somnorys:hover {transform: translateY(-15px);}
+
+.card-triumvira {background: linear-gradient(to bottom, #FFB6C1,#FFB6C1, #FFD700,#FFD700, #9370DB,#9370DB); color: #333333; border-style: solid; border-color: #B8860B; padding-bottom: 20px; width: 260px;}
+.card-triumvira:hover {transform: translateY(-15px);}
+
+.card-vinoryx {background: linear-gradient(to bottom, #722F37, #DAA520); color: #F0E68C; border-style: solid; border-color: #8B008B; padding-bottom: 20px; width: 260px;}
+.card-vinoryx:hover {transform: translateY(-15px);}
+
+.card-vovaris {background: linear-gradient(to bottom, #F5DEB3, #DAA520); color: #8B4513; border-style: solid; border-color: #B8860B; padding-bottom: 20px; width: 260px;}
+.card-vovaris:hover {transform: translateY(-15px);}
