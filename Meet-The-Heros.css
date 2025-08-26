@@ -9,7 +9,7 @@ h2 {font-size: 30px; margin-top: 20px; text-decoration: underline;text-align: ce
 h3 {font-size: 20px; margin-top: 20px; text-align: center;}
 
 p {text-align: center}
-
+img {  max-width: 100%;  height: auto;  display: block; margin: 0 auto;}
 img{padding-top: 20px}
 nav {display: flex;justify-content: center;background-color: #39004c; padding: 10px 0; text-align: center}
 nav a {color: goldenrod;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #be00ff;border-radius: 50px}
