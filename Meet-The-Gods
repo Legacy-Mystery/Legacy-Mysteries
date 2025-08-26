@@ -1,0 +1,1015 @@
+<!DOCTYPE html><html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="Meet-The-Gods.css"/>
+  </head>
+  <body>
+    <header><h1>Meet The Gods</h1></header>
+    <br>
+  <!--Gen 1-->  
+    <section id="Gen-1">
+    <header class="header-1"><h2>Primordial Deities</h2> <a href="Shadows_of_the_Past.html">Go Back</a>
+      <a href="#Gen-2">Gen 2</a>
+      <a href="#Gen-3">Gen 3</a>
+      <a href="#Gen-4">Gen 4</a>
+      </header>
+    <br>
+    <div id="cards" class="card-container">
+      <div id="Astraea" class="card-astraea">
+        <img src="astraea.png" alt="Astraea Symbol" />
+        <h3>Astraea</h3>
+        <p><strong>Domain:</strong> Stars &amp; Navigation</p>
+        <p><strong>Pronouns:</strong> She/They</p>
+        <p><strong>Symbol:</strong> Shooting Star</p>
+        <p><strong>Color:</strong> Indigo &amp; starlight silver</p>
+        <p><strong>Animal:</strong> Owl</p>
+        <p><strong>Plant:</strong> Moonflower</p>
+        <p><strong>Personality:</strong> A dreamer with a wanderer’s heart, Astraea dances among the stars with joy and wonder. She seeks discovery in every corner of the cosmos and lifts others toward hope.
+        </p>
+        <p><strong>Origin:</strong> Born from the first light in the universe</p>
+        <p><strong>Spouse:</strong> <a href="#Umbrya" class="relation-link">Umbrya</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Serendya" class="relation-link">Serendya</a>, <a href="#Zephyros" class="relation-link">Zephyros</a>, <a href="#Faelys" class="relation-link">Faelys</a>, and <a href="#Mythora" class="relation-link">Mythora</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Chronis" class="card-chronis">
+        <img src="chronis.png" alt="Chronis Symbol" />
+        <h3>Chronis</h3>
+        <p><strong>Domain:</strong> Time &amp; Cycles</p>
+        <p><strong>Pronouns:</strong> They/Them</p>
+        <p><strong>Symbol:</strong> Hourglass with ouroboros</p>
+        <p><strong>Color:</strong> Bronze &amp; twilight purple</p>
+        <p><strong>Animal:</strong> Butterfly</p>
+        <p><strong>Plant:</strong> Sundial flower</p>
+        <p><strong>Personality:</strong> Chronis exists beyond haste or hesitation, seeing the threads of all things through the lens of time. They guide patiently, allowing events to unfold without interference.</p>
+        <p><strong>Origin:</strong> Came into being with the first moment of time</p>
+        <p><strong>Spouse:</strong> None </p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Soltheron" class="relation-link">Soltheron</a>, <a href="#Lunthera" class="relation-link">Lunthera</a>, <a href="#Veydris" class="relation-link">Veydris</a>,  <a href="#Triumvira" class="relation-link" >The Triumvira (Nascentia, Tessa, Finalia)</a>, and <a href="#Gemantra" class="relation-link">Gemantra</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Eclipsa" class="card-eclipsa">
+        <img src="eclipsa.png" alt="Eclipsa Symbol" />
+        <h3>Eclipsa</h3>
+        <p><strong>Domain:</strong> Balance &amp; Justice</p>
+        <p><strong>Pronouns:</strong> He/They</p>
+        <p><strong>Symbol:</strong> Gold and Silver Scales</p>
+        <p><strong>Color:</strong> Rose gold &amp; Periwinkle</p>
+        <p><strong>Animal:</strong> Crane</p>
+        <p><strong>Plant:</strong> Lotus</p>
+        <p><strong>Personality:</strong> He is balance made manifest—day and night, truth and silence. Eclipsa weighs choices with care and values the grey spaces where clarity and mystery coexist.</p>
+        <p><strong>Origin:</strong> Emerged from the equilibrium of the cosmic forces</p>
+        <p><strong>Spouse:</strong> <a href="#Luminara" class="relation-link">Luminara</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Teralis" class="relation-link">Teralis</a>, <a href="#Harmysia" class="relation-link">Harmysia</a>, <a href="#Aethrion" class="relation-link">Aethrion</a>, and <a href="#Melithra" class="relation-link">Melithra</a></p>
+      </div>
+      
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Ignivelle" class="card-ignivelle">
+        <img src="ignivelle.png" alt="Ignivelle Symbol" />
+        <h3>Ignivelle</h3>
+        <p><strong>Domain:</strong> Fire &amp; Lightning</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Symbol:</strong> Anvil with sparks</p>
+        <p><strong>Color:</strong> Crimson &amp; copper</p>
+        <p><strong>Animal:</strong> Salamander</p>
+        <p><strong>Plant:</strong> Flame Lily</p>
+        <p><strong>Personality:</strong> Passionate and fierce, Ignivelle is a god of roaring flame and endless transformation. He thrives in chaos and motion, always forging something new from what has been lost.</p>
+        <p><strong>Origin:</strong> Born from the first cosmic spark</p>
+        <p><strong>Spouse:</strong> <a href="#Nytheris" class="relation-link">Nytheris</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Pyrrhion" class="relation-link">Pyrrhion</a>, <a href="#Corvanyx" class="relation-link">Corvanyx</a>, and <a href="#Orthanyx" class="relation-link">Orthanyx</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Luminara" class="card-luminara">
+        <img src="luminara.png" alt="Luminara Symbol" />
+        <h3>Luminara</h3>
+        <p><strong>Domain:</strong> Light &amp; Memory</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Symbol:</strong> Sun with cloud in front</p>
+        <p><strong>Color:</strong> Radiant gold &amp; cloud white</p>
+        <p><strong>Animal:</strong> Lion</p>
+        <p><strong>Plant:</strong> Sunflower</p>
+        <p><strong>Personality:</strong> Bright and charismatic, Luminara lights paths others are afraid to take. He inspires courage, not through force, but by reminding others of what’s possible.</p>
+        <p><strong>Origin:</strong> Coalesced from the first dawn</p>
+        <p><strong>Spouse:</strong> <a href="#Eclipsa" class="relation-link">Eclipsa</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Teralis" class="relation-link">Teralis</a>, <a href="#Harmysia" class="relation-link">Harmysia</a>, <a href="#Aethrion" class="relation-link">Aethrion</a>, and <a href="#Melithra" class="relation-link">Melithra</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div class="card-nytheris">
+        <img src="nytheris.png" alt="Nytheris Symbol" />
+        <h3>Nytheris</h3>
+        <p><strong>Domain:</strong> Darkness &amp; the Afterlife</p>
+        <p><strong>Pronouns:</strong> She/Her</p>
+        <p><strong>Symbol:</strong> Black veil with silver thread</p>
+        <p><strong>Color:</strong> Obsidian black &amp; moon-silver</p>
+        <p><strong>Animal:</strong> Red Cardinal</p>
+        <p><strong>Plant:</strong> Nightshade</p>
+        <p><strong>Personality:</strong> An ancient and enigmatic goddess, Nytheris rarely speaks, yet her presence brings silence and solemnity. She watches over death not with malice, but with reverence for its necessity.</p>
+        <p><strong>Origin:</strong> Emerged from the primordial void.</p>
+        <p><strong>Spouse:</strong> <a href="#Ignivelle" class="relation-link">Ignivelle</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Pyrrhion" class="relation-link">Pyrrhion</a>, <a href="#Corvanyx" class="relation-link">Corvanyx</a>, and <a href="#Orthanyx" class="relation-link">Orthanyx</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Sylvana" class="card-sylvana">
+          <img src="sylvana.png" alt="Sylvana Symbol" />
+        <h3>Sylvana</h3>
+        <p><strong>Domain:</strong> Nature &amp; Growth</p>
+        <p><strong>Pronouns:</strong> She/Her</p>
+        <p><strong>Symbol:</strong> Tree and Mushrooms</p>
+        <p><strong>Color:</strong> Emerald &amp; bark brown</p>
+        <p><strong>Animal:</strong> Deer</p>
+        <p><strong>Plant:</strong> Oak tree</p>
+        <p><strong>Personality:</strong> Wise and nurturing, Sylvana embodies the quiet strength of nature. She is a steady guardian of life, blooming where others wither and standing firm through every storm.</p>
+        <p><strong>Origin:</strong> Manifested from the first living matter</p>
+        <p><strong>Spouse:</strong> <a href="#Thalassos" class="relation-link">Thalassos</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Ithalyn" class="relation-link">Ithalyn</a>, <a href="#Eryndor" class="relation-link">Eryndor</a>, <a href="#Elthara" class="relation-link">Elthara</a>, and <a href="#Kalthor" class="relation-link">Kalthor</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Thalassos" class="card-thalassos">
+        <img src="thalassos.png" alt="Thalassos Symbol" />
+        <h3>Thalassos</h3>
+        <p><strong>Domain:</strong> Water &amp; The Ocean</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Symbol:</strong> Coral reef with coin</p>
+        <p><strong>Color:</strong> Deep sea blue &amp; foam white</p>
+        <p><strong>Animal:</strong> Octopus</p>
+        <p><strong>Plant:</strong> Kelp</p>
+        <p><strong>Personality:</strong> Deep and brooding, Thalassos moves like the ocean—peaceful at times, destructive at others. He holds ancient wisdom in his silence and speaks with the weight of tides.</p>
+        <p><strong>Origin:</strong> Formed from the first primeval Waters</p>
+        <p><strong>Spouse:</strong> <a href="#Sylvana" class="relation-link">Sylvana</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Ithalyn" class="relation-link">Ithalyn</a>, <a href="#Eryndor" class="relation-link">Eryndor</a>, <a href="#Elthara" class="relation-link">Elthara</a>, and <a href="#Kalthor" class="relation-link">Kalthor</a></p>
+      </div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Umbrya" class="card-umbrya">
+        <img src="umbrya.png" alt="Umbrya Symbol" />
+        <h3>Umbrya</h3>
+        <p><strong>Domain:</strong> Shadows &amp; Mystery</p>
+        <p><strong>Pronouns:</strong> She/Her</p>
+        <p><strong>Symbol:</strong> Foggy Crescent Moon</p>
+        <p><strong>Color:</strong> Shadow grey &amp; violet</p>
+        <p><strong>Animal:</strong> Bat</p>
+        <p><strong>Plant:</strong> Ghost orchid</p>
+        <p><strong>Personality:</strong> Reserved and introspective, Umbrya thrives in the stillness between moments. She values secrets, not for power, but for the beauty of things left unseen.</p>
+        <p><strong>Origin:</strong> Formed by the first shadows cast by light</p>
+        <p><strong>Spouse:</strong> <a href="#Astraea" class="relation-link">Astraea</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Serendya" class="relation-link">Serendya</a>, <a href="#Zephyros" class="relation-link">Zephyros</a>, <a href="#Faelys" class="relation-link">Faelys</a>, and <a href="#Mythora" class="relation-link">Mythora</a></p>
+      </div>
+    </div>
+    </section>
+    <section id="Gen-2">
+    <header class="header-1"><h2>Conceptual and Elemental Deities (Second Generation)</h2> <a href="Shadows_of_the_Past.html">Go Back</a>
+      <a href="#Gen-1">Gen 1</a>
+      <a href="#Gen-3">Gen 3</a>
+      <a href="#Gen-4">Gen 4</a>
+      </header>
+    <br>
+    <div class="card-container">
+      <div id="Aurivelle" class="card-aurivelle"> 
+        <img src="aurivelle.png" alt="aurivelle Symbol">
+        <h3>Aurivelle</h3>
+        <p><strong>Domain:</strong> Wealth &amp; Prosperity</p>
+        <p><strong>Pronouns:</strong> She/Her</p>
+        <p><strong>Symbol:</strong> Scales with Coin and Grain</p>
+        <p><strong>Color:</strong> Gold &amp; Peridot</p>
+        <p><strong>Animal:</strong> Peacock</p>
+        <p><strong>Plant:</strong> Wheat</p>
+        <p><strong>Personality:</strong> Aurivelle surrounds herself with finery, but it is generosity—not greed—that marks her favor. She rewards those who share their bounty and she blesses those who seek abundance with intention.</p>
+        <p><strong>Origin:</strong> Born from the first exchange of value</p>
+        <p><strong>Spouse:</strong> <a href="#Sythra" class="relation-link">Sythra</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Opulyria" class="relation-link">Opulyria</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Eryndor" class="card-eryndor"> 
+        <img src="eryndor.png" alt="eryndor Symbol">
+        <h3>Eryndor</h3>
+        <p><strong>Domain:</strong> Hunting &amp; The Wild</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Symbol:</strong> Antlers above a Bow</p>
+        <p><strong>Color:</strong> Moss Green &amp; Umbar</p>
+        <p><strong>Animal:</strong> Wolf</p>
+        <p><strong>Plant:</strong> Pine Tree</p>
+        <p><strong>Personality:</strong> Eryndor is a shadow in the trees, quiet and sharp-eyed. He honors life in every hunt, knowing that survival is sacred and balance must always be restored.</p>
+        <p><strong>Parents:</strong> <a href="#Sylvana" class="relation-link">Sylvana</a> and <a href="#Thalassos" class="relation-link">Thalassos</a></p>
+        <p><strong>Spouse:</strong> None</p>
+        <p><strong>Siblings:</strong> <a href="#Ithalyn" class="relation-link">Ithalyn</a>, <a href="#Elthara" class="relation-link">Elthara</a>, and <a href="#Kalthor" class="relation-link">Kalthor</a></p>
+        <p><strong>Children:</strong> None</p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Harmysia" class="card-harmysia"> 
+        <img src="harmysia.png" alt="harmysia Symbol">
+        <h3>Harmysia</h3>
+        <p><strong>Domain:</strong> Healing &amp; Compassion</p>
+        <p><strong>Pronouns:</strong> She/Her</p>
+        <p><strong>Symbol:</strong> Caduceus with Flowers falling</p>
+        <p><strong>Color:</strong> Light Mint &amp; Warm Beige</p>
+        <p><strong>Animal:</strong> Deer</p>
+        <p><strong>Plant:</strong> Chamomile</p>
+        <p><strong>Personality:</strong> Harmysia carries kindness in her every gesture and believes even the deepest wounds can bloom into wisdom. She nurtures growth with both firmness and grace, never shying from pain when it must be faced.</p>
+        <p><strong>Parents:</strong> <a href="#Eclipsa" class="relation-link">Eclipsa</a> and <a href="#Luminara" class="relation-link">Luminara</a></p>
+        <p><strong>Spouse:</strong> <a href="#Serendya" class="relation-link">Serendya</a></p>
+        <p><strong>Siblings:</strong> <a href="#Teralis" class="relation-link">Teralis</a>, <a href="#Aetherion" class="relation-link">Aetherion</a>, and <a href="#Melithra" class="relation-link">Melithra</a></p>
+        <p><strong>Children:</strong> <a href="#Chaltheron" class="relation-link">Chaltheron</a>, <a href="#Lyrannis" class="relation-link">Lyrannis</a>, <a href="#Ludarius" class="relation-link">Ludarius</a>, and <a href="#Maritaya " class="relation-link">Maritaya </a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Ithalyn" class="card-ithalyn"> 
+        <img src="ithalyn.png" alt="ithalyn Symbol">
+        <h3>Ithalyn</h3>
+        <p><strong>Domain:</strong> Ice &amp; Preservation</p>
+        <p><strong>Pronouns:</strong> She/They</p>
+        <p><strong>Symbol:</strong> Snowflake over an ice crystal</p>
+        <p><strong>Color:</strong> Ice Blue &amp; Silver</p>
+        <p><strong>Animal:</strong> Arctic Fox</p>
+        <p><strong>Plant:</strong> Edelweiss</p>
+        <p><strong>Personality:</strong> Ithalyn is still as frozen lakes and just as deep. Her touch holds memory in perfect clarity, and they preserve not to control, but to protect what might otherwise be lost.</p>
+        <p><strong>Parents:</strong> <a href="#Sylvana" class="relation-link">Sylvana</a> and <a href="#Thalassos" class="relation-link">Thalassos</a></p>
+        <p><strong>Spouse:</strong> <a href="#Phorathos" class="relation-link">Phorathos</a></p>
+        <p><strong>Siblings:</strong> <a href="#Eryndor" class="relation-link">Eryndor</a>, <a href="#Elthara" class="relation-link">Elthara</a>, and <a href="#Kalthor" class="relation-link">Kalthor</a></p>
+        <p><strong>Children:</strong> <a href="#Erythros" class="relation-link">Erythros</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Kytheron" class="card-kytheron"> 
+        <img src="kytheron.png" alt="kytheron Symbol">
+        <h3>Kytheron</h3>
+        <p><strong>Domain:</strong> Earthquakes &amp; Renewal</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Symbol:</strong> Cracked Stone with growing roots</p>
+        <p><strong>Color:</strong> Brick Red &amp; Dusty Green</p>
+        <p><strong>Animal:</strong> Mole</p>
+        <p><strong>Plant:</strong> Sequoia Sapling</p>
+        <p><strong>Personality:</strong> Kytheron speaks in rumbles and silence. He breaks the ground only to ready it for something stronger, always rooted in the cycle of destruction and rebirth.</p>
+        <p><strong>Parents:</strong> <a href="#Zephyros" class="relation-link">Zephyros</a> and <a href="#Pyrrhion" class="relation-link">Pyrrhion</a></p>
+        <p><strong>Spouse:</strong> None</p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> None</p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Lunthera" class="card-lunthera"> 
+        <img src="lunthera.png" alt="lunthera Symbol">
+        <h3>Lunthera</h3>
+        <p><strong>Domain:</strong> The Moon &amp; Reflection</p>
+        <p><strong>Pronouns:</strong> She/Her</p>
+        <p><strong>Symbol:</strong> Full Moon in mist</p>
+        <p><strong>Color:</strong> Deep Violet &amp; Lilac</p>
+        <p><strong>Animal:</strong> Barn Owl</p>
+        <p><strong>Plant:</strong> Moon Lily</p>
+        <p><strong>Personality:</strong> Lunthera glows softly where Soltheron blazes, a guide through inward journeys. She reveals truths in quiet ways, never demanding understanding but always encouraging it.</p>
+        <p><strong>Parent:</strong> <a href="#Chronis" class="relation-link">Chronis</a></p>
+        <p><strong>Spouse:</strong> <a href="#Vorathis" class="relation-link">Vorathis</a></p>
+        <p><strong>Siblings:</strong> <a href="#Soltheron" class="relation-link">Soltheron</a>, <a href="#Veydris" class="relation-link">Veydris</a>,  <a href="#Triumvira" class="relation-link" >The Triumvira (Nascentia, Tessa, Finalia)</a>, and <a href="#Gemantra" class="relation-link">Gemantra</a></p>
+        <p><strong>Children:</strong> <a href="#Silvaris" class="relation-link">Silvaris</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Phorathos" class="card-phorathos"> 
+        <img src="phorathos.png" alt="phorathos Symbol">
+        <h3>Phorathos</h3>
+        <p><strong>Domain:</strong> Lightning &amp; Energy</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Symbol:</strong> Lightning Bolt with sparks</p>
+        <p><strong>Color:</strong> Electric Yellow &amp; Cobalt</p>
+        <p><strong>Animal:</strong> Panther</p>
+        <p><strong>Plant:</strong> Thornbush</p>
+        <p><strong>Personality:</strong> Phorathos flashes with brilliance, a living jolt of power and purpose. He never waits, never hesitates—when he strikes, it is with absolute certainty.</p>
+        <p><strong>Parents:</strong> <a href="#Soltheron" class="relation-link">Soltheron</a> and <a href="#Volthar" class="relation-link">Volthar</a></p>
+        <p><strong>Spouse:</strong> <a href="#Ithalyn" class="relation-link">Ithalyn</a></p>
+        <p><strong>Siblings:</strong> <a href="#Draconyx" class="relation-link">Draconyx</a> and <a href="#Terroryx" class="relation-link">Terroryx</a>
+        <p><strong>Children:</strong> <a href="#Erythros" class="relation-link">Erythros</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Pyrrhion" class="card-pyrrhion"> 
+        <img src="pyrrhion.png" alt="pyrrhion Symbol">
+        <h3>Pyrrhion</h3>
+        <p><strong>Domain:</strong> Rebirth &amp; Transformation</p>
+        <p><strong>Pronouns:</strong> She/Her</p>
+        <p><strong>Symbol:</strong> Phoenix rising from ashes</p>
+        <p><strong>Color:</strong> Orange &amp; Ash  Grey</p>
+        <p><strong>Animal:</strong> Phoenix</p>
+        <p><strong>Plant:</strong> Ash Tree</p>
+        <p><strong>Personality:</strong> Pyrrhion walks beside endings, never mourning them—she knows every death is simply a prelude. She speaks of change as a gift, and her flames burn away all that hinders renewal.</p>
+        <p><strong>Parents:</strong> <a href="#Nytheris" class="relation-link">Nytheris</a> and <a href="#Ignivelle" class="relation-link">Ignivelle</a></p>
+        <p><strong>Spouse:</strong> <a href="#Zephyros" class="relation-link">Zephyros</a></p>
+        <p><strong>Siblings:</strong> <a href="#Corvanyx" class="relation-link">Corvanyx</a> and <a href="#Orthanyx" class="relation-link">Orthanyx</a></p>
+        <p><strong>Children:</strong> <a href="#Kytheron" class="relation-link">Kytheron</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Serendya" class="card-serendya"> 
+        <img src="serendya.png" alt="Serendya Symbol">
+        <h3>Serendya</h3>
+        <p><strong>Domain:</strong>  Love, Passion &amp; Friendship</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Symbol:</strong> Red and White rose intertwined</p>
+        <p><strong>Color:</strong> Rose Pink &amp; Scarlet</p>
+        <p><strong>Animal:</strong> Dove</p>
+        <p><strong>Plant:</strong> Roses</p>
+        <p><strong>Personality:</strong> Serendya guides hearts with both patience and mischief, moving through the world with the warmth of a flame and the unpredictability of a spark. He walks among lovers in the quietest moments and they smile in every act of devotion.</p>
+        <p><strong>Parents:</strong> <a href="#Astraea" class="relation-link">Astraea</a> and <a href="#Umbrya" class="relation-link">Umbrya</a></p>
+        <p><strong>Spouse:</strong> <a href="#Harmysia" class="relation-link">Harmysia</a></p>
+        <p><strong>Siblings:</strong> <a href="#Zephyros" class="relation-link">Zephyros</a>, <a href="#Faelys" class="relation-link">Faelys</a>, and <a href="#Mythora" class="relation-link">Mythora</a></p>
+        <p><strong>Children:</strong> <a href="#Chaltheron" class="relation-link">Chaltheron</a>, <a href="#Lyrannis" class="relation-link">Lyrannis</a>, <a href="#Ludarius" class="relation-link">Ludarius</a>, and <a href="#Maritaya " class="relation-link">Maritaya </a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Soltheron" class="card-soltheron"> 
+        <img src="soltheron.png" alt="soltheron Symbol">
+        <h3>Soltheron</h3>
+        <p><strong>Domain:</strong> The Sun &amp; Illumination</p>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Symbol:</strong> Sunrise</p>
+        <p><strong>Color:</strong> Sun Gold &amp; Burnt Sienna</p>
+        <p><strong>Animal:</strong> Eagle</p>
+        <p><strong>Plant:</strong> Marigold</p>
+        <p><strong>Personality:</strong> Soltheron brightens every path with conviction. He casts out doubt as shadows and burns away illusion, lighting the way even when it scorches.</p>
+        <p><strong>Parent:</strong> <a href="#Chronis" class="relation-link">Chronis</a></p>
+        <p><strong>Spouse:</strong> <a href="#Volthar" class="relation-link">Volthar</a></p>
+        <p><strong>Siblings:</strong> <a href="#Lunthera" class="relation-link">Lunthera</a>, <a href="#Veydris" class="relation-link">Veydris</a>,  <a href="#Triumvira" class="relation-link" >The Triumvira (Nascentia, Tessa, Finalia)</a>, and <a href="#Gemantra" class="relation-link">Gemantra</a></p>
+        <p><strong>Children:</strong> <a href="#Phorathos" class="relation-link">Phorathos</a>, <a href="#Draconyx" class="relation-link">Draconyx</a>, and <a href="#Terroryx" class="relation-link">Terroryx</a> </p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Sythra" class="card-sythra"> 
+        <img src="sythra.png" alt="sythra Symbol">
+        <h3>Sythra</h3>
+        <p><strong>Domain:</strong> Trickery &amp; Chaos</p>
+        <p><strong>Pronouns:</strong> He/They</p>
+        <p><strong>Symbol:</strong> Half Happy-Half Sad mask</p>
+        <p><strong>Color:</strong> Neon Green &amp; Plum</p>
+        <p><strong>Animal:</strong> Hyena</p>
+        <p><strong>Plant:</strong> Poison Hemlock </p>
+        <p><strong>Personality:</strong> Sythra dances through loopholes and laughs at the rules he breaks. He’s not cruel—only clever—and they revel in the mayhem that unravels stale systems.</p>
+        <p><strong>Origin:</strong> Born from the first deception
+        </p>
+        <p><strong>Spouse:</strong> <a href="#Aurivelle" class="relation-link">Aurivelle</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Opulyria" class="relation-link">Opulyria</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Teralis" class="card-teralis"> 
+        <img src="teralis.png" alt="Teralis Symbol">
+        <h3>Teralis</h3>
+        <p><strong>Domain:</strong> Peace &amp; Unity</p>
+        <p><strong>Pronouns:</strong> He/They</p>
+        <p><strong>Symbol:</strong> Swallow with Vine</p>
+        <p><strong>Color:</strong> Pale Green &amp; Soft Grey</p>
+        <p><strong>Animal:</strong> Lamb</p>
+        <p><strong>Plant:</strong> Olive Tree</p>
+        <p><strong>Personality:</strong> Teralis moves like still water—unshaken, yet always flowing. He offers strength not in dominance, but in gentleness, and his voice carries farther than any shout ever could.</p>
+        <p><strong>Parents:</strong> <a href="#Eclipsa" class="relation-link">Eclipsa</a> and <a href="#Luminara" class="relation-link">Luminara</a></p>
+        <p><strong>Spouse:</strong> <a href="#Veydris" class="relation-link">Veydris</a></p>
+        <p><strong>Siblings:</strong> <a href="#Harmysia" class="relation-link">Harmysia</a>, <a href="#Aetherion" class="relation-link">Aetherion</a>, and <a href="#Melithra" class="relation-link">Melithra</a></p>
+        <p><strong>Children:</strong> <a href="#Pedagogus" class="relation-link">Pedagogus</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Veydris" class="card-veydris"> 
+        <img src="veydris.png" alt="veydris Symbol">
+        <h3>Veydris</h3>
+        <p><strong>Domain:</strong> Knowledge &amp; Writing</p>
+        <p><strong>Pronouns:</strong> He/They</p>
+        <p><strong>Symbol:</strong> Quill and scroll</p>
+        <p><strong>Color:</strong> Heather Purple  &amp; Parchment</p>
+        <p><strong>Animal:</strong> Crow</p>
+        <p><strong>Plant:</strong> Bay Laurel</p>
+        <p><strong>Personality:</strong> Veydris records not just events, but ideas—thoughts half-formed and truths unspoken. They move through libraries like temples and let no lesson be lost to time.</p>
+        <p><strong>Parent:</strong> <a href="#Chronis" class="relation-link">Chronis</a></p>
+        <p><strong>Spouse:</strong> <a href="#Teralis" class="relation-link">Teralis</a></p>
+        <p><strong>Siblings:</strong> <a href="#Soltheron" class="relation-link">Soltheron</a>, <a href="#Lunthera" class="relation-link">Lunthera</a>,  <a href="#Triumvira" class="relation-link" >The Triumvira (Nascentia, Tessa, Finalia)</a>, and <a href="#Gemantra" class="relation-link">Gemantra</a></p>
+        <p><strong>Children:</strong> <a href="#Pedagogus" class="relation-link">Pedagogus</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Volthar" class="card-volthar"> 
+        <img src="volthar.png" alt="Volthar Symbol">
+        <h3>Volthar</h3>
+        <p><strong>Domain:</strong> War &amp; Strength</p>
+        <p><strong>Pronouns:</strong> She/Her</p>
+        <p><strong>Symbol:</strong>  Shield with Crossed Swords</p>
+        <p><strong>Color:</strong> Maroon &amp; Iron Grey</p>
+        <p><strong>Animal:</strong> Boar</p>
+        <p><strong>Plant:</strong> Ironwood</p>
+        <p><strong>Personality:</strong> Volthar charges forward with unwavering purpose, leading not with cruelty but with fierce resolve. She values those who stand their ground, and they have little patience for cowardice disguised as peace.</p>
+        <p><strong>Origin:</strong>  Born from the first cosmic battle</p>
+        <p><strong>Spouse:</strong> <a href="#Soltheron" class="relation-link">Soltheron</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Phorathos" class="relation-link">Phorathos</a>, <a href="#Draconyx" class="relation-link">Draconyx</a>, and <a href="#Terroryx" class="relation-link">Terroryx</a> </p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Vorathis" class="card-vorathis"> 
+        <img src="vorathis.png" alt="vorathis Symbol">
+        <h3>Vorathis</h3>
+        <p><strong>Domain:</strong> Chaos &amp; Order</p>
+        <p><strong>Pronouns:</strong> They/Them</p>
+        <p><strong>Symbol:</strong> Cracked spiral</p>
+        <p><strong>Color:</strong> Pure White &amp; Void Black</p>
+        <p><strong>Animal:</strong> Serpent</p>
+        <p><strong>Plant:</strong> Ivy</p>
+        <p><strong>Personality:</strong> Vorathis is contradiction given form. He dismantles what he builds and builds what he dismantles, each motion part of a greater, shifting dance that only they seem to understand.</p>
+        <p><strong>Origin:</strong> Born from the boundary between form and void.</p>
+        <p><strong>Spouse:</strong> <a href="#Lunthera" class="relation-link">Lunthera</a></p>
+        <p><strong>Siblings:</strong> None</p>
+        <p><strong>Children:</strong> <a href="#Silvaris" class="relation-link">Silvaris</a></p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <div id="Zephyros" class="card-zephyros"> 
+        <img src="zephyros.png" alt="Zephyros Symbol">
+        <h3>Zephyros</h3>
+        <p><strong>Domain:</strong> Winds &amp; Freedom</p>
+        <p><strong>Pronouns:</strong> He/They</p>
+        <p><strong>Symbol:</strong> Tornado with flying feathers</p>
+        <p><strong>Color:</strong> Sky Blue &amp; White</p>
+        <p><strong>Animal:</strong> Falcon</p>
+        <p><strong>Plant:</strong> Dandelion</p>
+        <p><strong>Personality:</strong> Zephyros comes and goes as they please, carried on every breeze that dares to wander. He cannot be tethered, and they delight in showing others how to let go.</p>
+        <p><strong>Parents:</strong> <a href="#Astraea" class="relation-link">Astraea</a> and <a href="#Umbrya" class="relation-link">Umbrya</a></p>
+        <p><strong>Spouse:</strong> <a href="#Pyrrhion" class="relation-link">Pyrrhion</a></p>
+        <p><strong>Siblings:</strong> <a href="#Serendya" class="relation-link">Serendya</a>, <a href="#Faelys" class="relation-link">Faelys</a>, and <a href="#Mythora" class="relation-link">Mythora</a></p>
+        <p><strong>Children:</strong> <a href="#Kytheron" class="relation-link">Kytheron</a></p>
+      </div>
+      </div>
+    </section>
+    <section id="Gen-3">
+      <header class="header-1"><h2>Mortal Connection and Specialized Domains (Third Generation)</h2>
+        <a href="Shadows_of_the_Past.html">Go Back</a>
+        <a href="#Gen-1">Gen 1</a>
+        <a href="#Gen-2">Gen 2</a>
+        <a href="#Gen-4">Gen 4</a>
+      </header>
+      <br>
+      <div class="card-container">
+        <div id="Aetherion" class="card-aetherion">
+          <img src="aetherion.png" alt="Aetherion Symbol">
+          <h3>Aetherion</h3>
+          <p><strong>Domain:</strong> Innovation &amp; Progress</p>
+          <p><strong>Pronouns:</strong> He/They</p>
+          <p><strong>Symbol:</strong> Sun rising behind a gear</p>
+          <p><strong>Colors:</strong> Chrome and Electric Blue</p>
+          <p><strong>Animal:</strong> Merlin Falcon</p>
+          <p><strong>Plant:</strong> Eucalyptus</p>
+          <p><strong>Personality:</strong> He thrives in the spark between thoughts, constantly dreaming forward, his mind always a step ahead of the present.</p>
+          <p><strong>Parents:</strong> <a href="#Eclipsa" class="relation-link">Eclipsa</a> and <a href="#Luminara" class="relation-link">Luminara</a></p>
+          <p><strong>Spouse:</strong> <a href="#Elthara" class="relation-link">Elthara</a></p>
+          <p><strong>Siblings:</strong> <a href="#Teralis" class="relation-link">Teralis</a>, <a href="#Harmysia" class="relation-link">Harmysia</a>, and <a href="#Melithra" class="relation-link">Melithra</a></p>
+          <p><strong>Children:</strong> <a href="#Embrithis" class="relation-link">Embrithis</a> and <a href="#Culinara" class="relation-link">Culinara</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Chaltheron" class="card-chaltheron">
+          <img src="chaltheron.png" alt="Chaltheron Symbol">
+          <h3>Chaltheron</h3>
+          <p><strong>Domain:</strong> Festivals &amp; Merriment</p>
+          <p><strong>Pronouns:</strong> He/Him/p>
+          <p><strong>Symbol:</strong> Goblet with party streamers</p>
+          <p><strong>Colors:</strong> Coral &amp; Buttercream</p>
+          <p><strong>Animal:</strong> Macaw</p>
+          <p><strong>Plant:</strong> Zinnia</p>
+          <p><strong>Personality:</strong> He is laughter in the firelight and music in the streets, urging the world to celebrate even in its darkest moments.</p>
+          <p><strong>Parents:</strong> <a href="#Serendya" class="relation-link">Serendya</a> and <a href="#Harmysia" class="relation-link">Harmysia</a></p>
+          <p><strong>Spouse:</strong> <a href="#Orthanyx" class="relation-link">Orthanyx</a></p>
+          <p><strong>Siblings:</strong> <a href="#Lyrannis" class="relation-link">Lyrannis</a>, <a href="#Ludarius" class="relation-link">Ludarius</a>, and <a href="#Maritaya " class="relation-link">Maritaya </a></p>
+          <p><strong>Children:</strong> <a href="#Domura" class="relation-link">Domura</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Corvanyx" class="card-corvanyx">
+          <img src="corvanyx.png" alt="Corvanyx Symbol">
+          <h3>Corvanyx</h3>
+          <p><strong>Domain:</strong> Death &amp; Judgement</p>
+          <p><strong>Pronouns:</strong> He/Him</p>
+          <p><strong>Symbol:</strong> Grave with a feather</p>
+          <p><strong>Colors:</strong> Funeral Purple &amp; Hollow White</p>
+          <p><strong>Animal:</strong> Vulture</p>
+          <p><strong>Plant:</strong> Black Rose</p>
+          <p><strong>Personality:</strong> He is the final silence and the balance of the scales, steady-handed and fair, offering closure without cruelty.</p>
+          <p><strong>Parents:</strong> <a href="#Nytheris" class="relation-link">Nytheris</a> and <a href="#Ignivelle" class="relation-link">Ignivelle</a></p>
+          <p><strong>Spouse:</strong> <a href="#Erythros" class="relation-link">Erythros</a></p>
+          <p><strong>Siblings:</strong> <a href="#Pyrrhion" class="relation-link">Pyrrhion</a> and <a href="#Orthanyx" class="relation-link">Orthanyx</a></p>
+          <p><strong>Children:</strong><a href="#Vinoryx" class="relation-link"> Vinoryx</a>, <a href="#Vovaris" class="relation-link"> Vovaris</a>, and <a href="#Vindictrix" class="relation-link">Vindictrix</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Draconyx" class="card-draconyx">
+          <img src="draconyx.png" alt="Draconyx Symbol">
+          <h3>Draconyx</h3>
+          <p><strong>Domain:</strong> Beasts &amp; Untamed Power</p>
+          <p><strong>Pronouns:</strong> He/Him</p>
+          <p><strong>Symbol:</strong> Dragon Wings and Power Sign</p>
+          <p><strong>Colors:</strong> Lava Red &amp; Obsidian Green</p>
+          <p><strong>Animal:</strong> Komodo Dragon</p>
+          <p><strong>Plant:</strong> Dragon Fruit Cactus</p>
+          <p><strong>Personality:</strong> He is primal instinct wrapped in scorched wings, a guardian of wild might who answers only to freedom.</p>
+          <p><strong>Parents:</strong> <a href="#Soltheron" class="relation-link">Soltheron</a> and <a href="#Volthar" class="relation-link">Volthar</a></p>
+          <p><strong>Spouse:</strong> <a href="#Typhora" class="relation-link">Typhora</a></p>
+          <p><strong>Siblings:</strong> <a href="#Phorathos" class="relation-link">Phorathos</a> and <a href="#Terroryx" class="relation-link">Terroryx</a></p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Elthara" class="card-elthara">
+          <img src="elthara.png" alt="Elthara Symbol">
+          <h3>Elthara</h3>
+          <p><strong>Domain:</strong> Agriculture &amp; Fertility</p>
+          <p><strong>Pronouns:</strong> She/Her</p>
+          <p><strong>Symbol:</strong> Grain and Vine intertwined</p>
+          <p><strong>Colors:</strong> Harvest Gold and Olive Green</p>
+          <p><strong>Animal:</strong> Cow</p>
+          <p><strong>Plant:</strong> Barley</p>
+          <p><strong>Personality:</strong> She nurtures life with tender hands and a knowing smile, flourishing in the rhythm of sowing and reaping.</p>
+          <p><strong>Parents:</strong> <a href="#Sylvana" class="relation-link">Sylvana</a> and <a href="#Thalassos" class="relation-link">Thalassos</a></p>
+          <p><strong>Spouse:</strong> <a href="#Aetherion" class="relation-link">Aetherion</a></p>
+          <p><strong>Siblings:</strong> <a href="#Ithalyn" class="relation-link">Ithalyn</a>, <a href="#Eryndor" class="relation-link">Eryndor</a>, and <a href="#Kalthor" class="relation-link">Kalthor</a></p>
+          <p><strong>Children:</strong> <a href="#Embrithis" class="relation-link">Embrithis</a> and <a href="#Culinara" class="relation-link">Culinara</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Embrithis" class="card-embrithis">
+          <img src="embrithis.png" alt="Embrithis Symbol">
+          <h3>Embrithis</h3>
+          <p><strong>Domain:</strong> Craftsmanship &amp; Smithing</p>
+          <p><strong>Pronouns:</strong> They/Them</p>
+          <p><strong>Symbol:</strong> Hammer and Wrench crossed with sparks</p>
+          <p><strong>Colors:</strong> Charred Copper &amp; Steel Blue</p>
+          <p><strong>Animal:</strong> Pangolin</p>
+          <p><strong>Plant:</strong> Yew</p>
+          <p><strong>Personality:</strong> They speak through the hammer's rhythm and the curve of a blade, forging meaning into metal with calm, focused precision.</p>
+          <p><strong>Parents:</strong> <a href="#Elthara" class="relation-link">Elthara</a> and <a href="#Aetherion" class="relation-link">Aetherion</a></p>
+          <p><strong>Spouse:</strong> <a href="#Nythalos" class="relation-link">Nythalos</a></p>
+          <p><strong>Siblings:</strong> <a href="#Culinara" class="relation-link">Culinara</a></p>
+          <p><strong>Children:</strong> <a href="#Medeina" class="relation-link">Medeina</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Erythros" class="card-erythros">
+          <img src="erythros.png" alt="Erythros Symbol">
+          <h3>Erythros</h3>
+          <p><strong>Domain:</strong> Blood &amp; Sacrifice</p>
+          <p><strong>Pronouns:</strong> They/Them</p>
+          <p><strong>Symbol:</strong> Blood over Sword</p>
+          <p><strong>Colors:</strong> Garnet &amp; Bone</p>
+          <p><strong>Animal:</strong> Jackal</p>
+          <p><strong>Plant:</strong> Bloodroot</p>
+          <p><strong>Personality:</strong> They live with fierce devotion, their loyalty etched deep, willing to give all for those they love—whether in peace or in pain.</p>
+          <p><strong>Parents:</strong> <a href="#Ithalyn" class="relation-link">Ithalyn</a> and <a href="#Phorathos" class="relation-link">Phorathos</a></p>
+          <p><strong>Spouse:</strong> <a href="#Corvanyx" class="relation-link">Corvanyx</a></p>
+          <p><strong>Siblings:</strong> None</p>
+          <p><strong>Children:</strong><a href="#Vinoryx" class="relation-link"> Vinoryx</a>, <a href="#Vovaris" class="relation-link"> Vovaris</a>, and <a href="#Vindictrix" class="relation-link">Vindictrix</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Faelys" class="card-faelys">
+          <img src="faelys.png" alt="faelys Symbol">
+          <h3>Faelys</h3>
+          <p><strong>Domain:</strong> Luck &amp; Fortune</p>
+          <p><strong>Pronouns:</strong> They/Them</p>
+          <p><strong>Symbol:</strong> Coin with clovers</p>
+          <p><strong>Colors:</strong> Jade Green &amp; Champagne</p>
+          <p><strong>Animal:</strong> Red Panda</p>
+          <p><strong>Plant:</strong> Clover</p>
+          <p><strong>Personality:</strong> They dance on the edge of fate, bright-eyed and impulsive, bringing twists of chance with a grin and a wink.</p>
+          <p><strong>Parents:</strong> <a href="#Astraea" class="relation-link">Astraea</a> and <a href="#Umbrya" class="relation-link">Umbrya</a></p>
+          <p><strong>Spouse:</strong> <a href="#Lyrannis" class="relation-link">Lyrannis</a></p>
+          <p><strong>Siblings:</strong> <a href="#Serendya" class="relation-link">Serendya</a>, <a href="#Zephyros" class="relation-link">Zephyros</a>, and <a href="#Mythora" class="relation-link">Mythora</a></p>
+          <p><strong>Children:</strong> <a href="#Heralys" class="relation-link">Heralys</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Kalthor" class="card-kalthor">
+          <img src="kalthor.png" alt="Kalthor Symbol">
+          <h3>Kalthor</h3>
+          <p><strong>Domain:</strong> Mountains &amp; Resilience</p>
+          <p><strong>Pronouns:</strong> He/Him</p>
+          <p><strong>Symbol:</strong> Mountains with shattered rock</p>
+          <p><strong>Colors:</strong> Slate Gray and Stone Brown</p>
+          <p><strong>Animal:</strong> Mountain Goat</p>
+          <p><strong>Plant:</strong> Alpine Forget-Me-Not</p>
+          <p><strong>Personality:</strong> He is grounded and patient, like stone weathered by time, offering quiet strength to those who endure.</p>
+          <p><strong>Parents:</strong> <a href="#Sylvana" class="relation-link">Sylvana</a> and <a href="#Thalassos" class="relation-link">Thalassos</a></p>
+          <p><strong>Spouse:</strong> <a href="#Melithra" class="relation-link">Melithra</a></p>
+          <p><strong>Siblings:</strong> <a href="#Ithalyn" class="relation-link">Ithalyn</a>, <a href="#Eryndor" class="relation-link">Eryndor</a>, and <a href="#Elthara" class="relation-link">Elthara</a></p>
+          <p><strong>Children:</strong> <a href="#Architectura" class="relation-link">Architectura</a> and <a href="#Rithmosa" class="relation-link">Rithmosa</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Lyrannis" class="card-lyrannis">
+          <img src="lyrannis.png" alt="Lyrannis Symbol">
+          <h3>Lyrannis</h3>
+          <p><strong>Domain:</strong> Commerce &amp; Traveling</p>
+          <p><strong>Pronouns:</strong> She/Her</p>
+          <p><strong>Symbol:</strong> Scales on a compass rose</p>
+          <p><strong>Colors:</strong> Ochre &amp; Slate Blue</p>
+          <p><strong>Animal:</strong> Tortoise</p>
+          <p><strong>Plant:</strong> Rosemary</p>
+          <p><strong>Personality:</strong> She carries the pulse of trade in her stride and the stories of roads in her eyes, weaving connections wherever she roams.</p>
+          <p><strong>Parents:</strong> <a href="#Serendya" class="relation-link">Serendya</a> and <a href="#Harmysia" class="relation-link">Harmysia</a></p>
+          <p><strong>Spouse:</strong> <a href="#Faelys" class="relation-link">Faelys</a></p>
+          <p><strong>Siblings:</strong> <a href="#Chaltheron" class="relation-link">Chaltheron</a>, <a href="#Ludarius" class="relation-link">Ludarius</a>, and <a href="#Maritaya " class="relation-link">Maritaya </a></p>
+          <p><strong>Children:</strong> <a href="#Heralys" class="relation-link">Heralys</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Melithra" class="card-melithra">
+          <img src="melithra.png" alt="Melithra Symbol">
+          <h3>Melithra</h3>
+          <p><strong>Domain:</strong> Music &amp; The Arts </p>
+          <p><strong>Pronouns:</strong> She/Her</p>
+          <p><strong>Symbol:</strong> Paintbrush crossed with Music Note</p>
+          <p><strong>Colors:</strong> Petal Pink &amp; Baby Purple</p>
+          <p><strong>Animal:</strong> Lyrebird</p>
+          <p><strong>Plant:</strong> Snapdragon</p>
+          <p><strong>Personality:</strong> She paints emotion into color and song, shaping the soul's longings into beauty that transcends time.</p>
+          <p><strong>Parents:</strong> <a href="#Eclipsa" class="relation-link">Eclipsa</a> and <a href="#Luminara" class="relation-link">Luminara</a></p>
+          <p><strong>Spouse:</strong> <a href="#Kalthor" class="relation-link">Kalthor</a></p>
+          <p><strong>Siblings:</strong> <a href="#Teralis" class="relation-link">Teralis</a>, <a href="#Harmysia" class="relation-link">Harmysia</a>, and <a href="#Aetherion" class="relation-link">Aetherion</a></p>
+          <p><strong>Children:</strong> <a href="#Architectura" class="relation-link">Architectura</a> and <a href="#Rithmosa" class="relation-link">Rithmosa</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Mythora" class="card-mythora">
+          <img src="mythora.png" alt="Mythora Symbol">
+          <h3>Mythora</h3>
+          <p><strong>Domain:</strong> Magic &amp; Arcane Knowledge</p>
+          <p><strong>Pronouns:</strong> They/Them</p>
+          <p><strong>Symbol:</strong> Open book with a glowing rune</p>
+          <p><strong>Colors:</strong> Ultra Violet &amp; Pale Silver</p>
+          <p><strong>Animal:</strong> Snowy Owl</p>
+          <p><strong>Plant:</strong> Mandrake</p>
+          <p><strong>Personality:</strong> They move through the veil of reality with ease, ever curious and enigmatic, guiding others to hidden truths with both clarity and mischief.</p>
+          <p><strong>Parents:</strong> <a href="#Astraea" class="relation-link">Astraea</a> and <a href="#Umbrya" class="relation-link">Umbrya</a></p>
+          <p><strong>Spouse:</strong> <a href="#Silvaris" class="relation-link">Silvaris</a></p>
+          <p><strong>Siblings:</strong> <a href="#Serendya" class="relation-link">Serendya</a>, <a href="#Zephyros" class="relation-link">Zephyros</a>, and <a href="#Faelys" class="relation-link">Faelys</a></p>
+          <p><strong>Children:</strong> <a href="#Nythalos" class="relation-link">Nythalos</a> and <a href="#Somnorys" class="relation-link">Somnorys</a> </p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Nythalos" class="card-nythalos">
+          <img src="nythalos.png" alt="Nythalos Symbol">
+          <h3>Nythalos</h3>
+          <p><strong>Domain:</strong> Labryinths &amp; Choices</p>
+          <p><strong>Pronouns:</strong> They/Them</p>
+          <p><strong>Symbol:</strong> Trifecta Maze, Clock, Compass</p>
+          <p><strong>Colors:</strong> Labyrinth Grey &amp; Moss Blue</p>
+          <p><strong>Animal:</strong> Racoon</p>
+          <p><strong>Plant:</strong> Koru Fern</p>
+          <p><strong>Personality:</strong> They offer crossroads instead of answers, leading seekers through mazes both real and within—testing will, wisdom, and intent.</p>
+          <p><strong>Parents:</strong> <a href="#Mythora" class="relation-link">Mythora</a> and <a href="#Silvaris" class="relation-link">Silvaris</a></p>
+          <p><strong>Spouse:</strong> <a href="#Embrithis" class="relation-link">Embrithis</a></p>
+          <p><strong>Siblings:</strong> <a href="#Somnorys" class="relation-link"> Somnorys</a></p>
+          <p><strong>Children:</strong> <a href="#Medeina" class="relation-link">Medeina</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Opulyria" class="card-opulyria">
+          <img src="opulyria.png" alt="Opulyria Symbol">
+          <h3>Opulyria</h3>
+          <p><strong>Domain:</strong> Gems, Wealth &amp; Material Abundance</p>
+          <p><strong>Pronouns:</strong> They/Them</p>
+          <p><strong>Symbol:</strong> Crystalline mountain with coin embedded</p>
+          <p><strong>Colors:</strong> Jade Green &amp; Gilded Bronze</p>
+          <p><strong>Animal:</strong> Magpie</p>
+          <p><strong>Plant:</strong> Golden Chain Tree</p>
+          <p><strong>Personality:</strong> Opulyria sees value where others see only stone, discerning the hidden potential in all things. They neither condemn wealth nor worship it, but understand how it flows like water—gathering in some places and nourishing others.</p>
+          <p><strong>Parents:</strong> <a href="#Sythra" class="relation-link">Sythra</a> and <a href="#Aurivelle" class="relation-link">Aurivelle</a></p>
+          <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> None</p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Orthanyx" class="card-orthanyx">
+          <img src="orthanyx.png" alt="Orthanyx Symbol">
+          <h3>Orthanyx</h3>
+          <p><strong>Domain:</strong> Dust &amp; Forgetfulness</p>
+          <p><strong>Pronouns:</strong> They/Them</p>
+          <p><strong>Symbol:</strong> Tan Moth</p>
+          <p><strong>Colors:</strong> Taupe &amp; Faded Lavender</p>
+          <p><strong>Animal:</strong> Moth</p>
+          <p><strong>Plant:</strong> Sagebrush</p>
+          <p><strong>Personality:</strong> They drift softly between moments, fading in and out of thought. Their presence is like a dream—half-remembered, half-erased.</p>
+          <p><strong>Parents:</strong> <a href="#Nytheris" class="relation-link">Nytheris</a> and <a href="#Ignivelle" class="relation-link">Ignivelle</a></p>
+          <p><strong>Spouse:</strong> <a href="#Chaltheron" class="relation-link">Chaltheron</a></p>
+          <p><strong>Siblings:</strong> <a href="#Pyrrhion" class="relation-link">Pyrrhion</a> and <a href="#Corvanyx" class="relation-link">Corvanyx</a></p>
+          <p><strong>Children:</strong> <a href="#Domura" class="relation-link">Domura</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Silvaris" class="card-silvaris">
+          <img src="silvaris.png" alt="Silvaris Symbol">
+          <h3>Silvaris</h3>
+          <p><strong>Domain:</strong> Secrets &amp; Hidden Truth </p>
+          <p><strong>Pronouns:</strong> He/Him</p>
+          <p><strong>Symbol:</strong> Eye with a keyhole pupil</p>
+          <p><strong>Colors:</strong> Ink Black &amp; Dust Blue</p>
+          <p><strong>Animal:</strong> Chameleon</p>
+          <p><strong>Plant:</strong> Ghost Orchid</p>
+          <p><strong>Personality:</strong> He whispers only when shadows fall, guarding knowledge that could ruin or redeem, watching with knowing, patient eyes.</p>
+          <p><strong>Parents:</strong> <a href="#Lunthera" class="relation-link">Lunthera</a> and <a href="#Vorathis" class="relation-link">Vorathis</a></p>
+          <p><strong>Spouse:</strong> <a href="#Mythora" class="relation-link">Mythora</a></p>
+          <p><strong>Siblings:</strong> None</p>
+          <p><strong>Children:</strong> <a href="#Nythalos" class="relation-link">Nythalos</a> and <a href="#Somnorys" class="relation-link">Somnorys</a> </p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Terroryx" class="card-terroryx">
+        <img src="terroryx.png" alt="Terroryx Symbol">
+        <h3>Terroryx</h3>
+        <p><strong>Domain:</strong> Fear, Terror &amp; Primal Dread</p>
+        <p><strong>Pronouns:</strong> They/Them</p>
+        <p><strong>Symbol:</strong> Screaming mask with spiked crown</p>
+        <p><strong>Colors:</strong> Obsidian Black &amp; Scarlet</p>
+        <p><strong>Animal:</strong> Black Scorpion</p>
+        <p><strong>Plant:</strong> Corpse Flower</p>
+        <p><strong>Personality:</strong> Terroryx rarely speaks, for their presence alone is communication enough. They embody the paralyzing dread that freezes minds and the frantic terror that drives bodies to flee. In their eyes, fear is neither good nor evil—merely a primal force of survival and control.</p>
+        <p><strong>Parents:</strong> <a href="#Volthar" class="relation-link">Volthar</a> and <a href="#Soltheron" class="relation-link">Soltheron</a></p>
+        <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> <a href="#Phorathos" class="relation-link">Phorathos</a> and <a href="#Draconyx" class="relation-link">Draconyx</a></p>
+        <p><strong>Children:</strong> None</p>
+      </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Typhora" class="card-typhora">
+          <img src="typhora.png" alt="Typhora Symbol">
+          <h3>Typhora</h3>
+          <p><strong>Domain:</strong> Rebellion &amp; Resistance</p>
+          <p><strong>Pronouns:</strong> She/Her</p>
+          <p><strong>Symbol:</strong> Flame surrounded by broken chains</p>
+          <p><strong>Colors:</strong> Rust Red &amp; Smoky Amber</p>
+          <p><strong>Animal:</strong> Wolverine</p>
+          <p><strong>Plant:</strong> Firethorn</p>
+          <p><strong>Personality:</strong> She stands tall against tyranny with fire in her chest and defiance in her gaze, unyielding in the face of oppression.</p>
+          <p><strong>Origin:</strong> Forged in the first act of defiance</p>
+          <p><strong>Spouse:</strong> <a href="#Draconyx" class="relation-link">Draconyx</a></p>
+          <p><strong>Siblings:</strong> None</p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Vindictrix" class="card-vindictrix">
+          <img src="vindictrix.png" alt="Vindictrix Symbol">
+          <h3>Vindictrix</h3>
+          <p><strong>Domain:</strong> Retribution, Vengeance &amp; Cosmic Balance</p>
+          <p><strong>Pronouns:</strong> She/Her</p>
+          <p><strong>Symbol:</strong> Balanced scales with sword</p>
+          <p><strong>Colors:</strong> Vermilion &amp; Gunmetal Gray</p>
+          <p><strong>Animal:</strong> Eagle Owl</p>
+          <p><strong>Plant:</strong> Thistle</p>
+          <p><strong>Personality:</strong> Vindictrix arrives when justice alone is not enough. She is the consequence that follows hubris, the reckoning that follows cruelty. Her vengeance is not cruel but precisely measured—always proportional, never excessive.</p>
+          <p><strong>Parents:</strong> <a href="#Corvanyx" class="relation-link">Corvanyx</a> and <a href="#Erythros" class="relation-link">Erythros</a></p>
+          <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> <a href="#Vinoryx" class="relation-link"> Vinoryx</a> and <a href="#Vovaris" class="relation-link"> Vovaris</a></p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+      </div>
+    </section>
+    <section id="Gen-4">
+      <header class="header-1"><h2>Divine Specialists: The Embodiment Deities (Fourth Generation)</h2>
+        <a href="Shadows_of_the_Past.html">Go Back</a>
+        <a href="#Gen-1">Gen 1</a>
+        <a href="#Gen-2">Gen 2</a>
+        <a href="#Gen-3">Gen 3</a>
+      </header>
+      <br>
+     <div class="card-container">
+       <div id="Animira" class="card-animira">
+         <img src="animira.png" alt="Animira Symbol">
+         <h3>Animira</h3>
+         <p><strong>Domain:</strong> Soul, Selfhood &amp; Inner Essence</p>
+         <p><strong>Pronouns:</strong> She/Her</p>
+         <p><strong>Symbol:</strong> Hummingbird emerging from crystal cocoon</p>
+         <p><strong>Colors:</strong> Cerulean Blue &amp; Amber Glow</p>
+         <p><strong>Animal:</strong> Hummingbird</p>
+         <p><strong>Plant:</strong> Passionflower</p>
+         <p><strong>Personality:</strong> Animira speaks in whispers heard only by one's innermost self. She represents the part of each being that remains unchanged through all transformations—witnessing, experiencing, yet never fully seen.</p>
+         <p><strong>Parents:</strong> <a href="#Rithmosa" class="relation-link">Rithmosa</a> and <a href="#Somnorys" class="relation-link">Somnorys</a></p>
+         <p><strong>Spouse:</strong> None</p>
+         <p><strong>Siblings:</strong> None</p>
+         <p><strong>Children:</strong> None</p>
+       </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <div id="Architectura" class="card-architectura">
+         <img src="architectura.png" alt="Architectura Symbol">
+         <h3>Architectura</h3>
+         <p><strong>Domain:</strong> Buildings, Structures &amp; Shelters</p>
+         <p><strong>Pronouns:</strong> He/Him</p>
+         <p><strong>Symbol:</strong> Column supporting arch</p>
+         <p><strong>Colors:</strong> Blueprint Blue &amp; Stone Gray</p>
+         <p><strong>Animal:</strong> Beaver</p>
+         <p><strong>Plant:</strong> Bamboo</p>
+         <p><strong>Personality:</strong> Architectura sees the potential in empty spaces, sketching possibilities in his mind before they exist in the world. He values both function and form, creating structures that shelter both bodies and spirits.</p>
+         <p><strong>Parents:</strong> <a href="#Kalthor" class="relation-link">Kalthor</a> and <a href="#Melithra" class="relation-link">Melithra</a></p>
+         <p><strong>Spouse:</strong> None</p>
+         <p><strong>Siblings:</strong> <a href="#Rithmosa" class="relation-link">Rithmosa</a></p>
+         <p><strong>Children:</strong> None</p>
+       </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <div class="card-chromatica">
+         <img src="chromatica.png" alt="Chromatica Symbol">
+         <h3>Chromatica</h3>
+         <p><strong>Domain:</strong> Colors, Pigments &amp; Visual Perception</p>
+         <p><strong>Pronouns:</strong> She/Her</p>
+         <p><strong>Symbol:</strong> Prism with rainbow stream</p>
+         <p><strong>Colors:</strong> Spectrum Violet &amp; Painter's White</p>
+         <p><strong>Animal:</strong> Chameleon</p>
+         <p><strong>Plant:</strong> Rainbow Eucalyptus</p>
+         <p><strong>Personality:</strong> Chromatica perceives a thousand shades where others see only one. She speaks rarely but expresses volumes through hue and saturation, showing how the world changes entirely when seen through different eyes.</p>
+         <p><strong>Parents:</strong> <a href="#Mythora" class="relation-link">Mythora</a> and <a href="#Silvaris" class="relation-link">Silvaris</a></p>
+         <p><strong>Spouse:</strong> None</p>
+         <p><strong>Siblings:</strong> <a href="#Nythalos" class="relation-link">Nythalos</a> and <a href="#Somnorys" class="relation-link">Somnorys</a></p>
+         <p><strong>Children:</strong> None</p>
+       </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <div id="Culinara" class="card-culinara">
+         <img src="culinara.png" alt="Culinara Symbol">
+         <h3>Culinara</h3>
+         <p><strong>Domain:</strong> Cooking, Feasting &amp; Food Preparation</p>
+         <p><strong>Pronouns:</strong> She/Her</p>
+         <p><strong>Symbol:</strong> Wooden spoon crossed with knife</p>
+         <p><strong>Colors:</strong> Spice Orange &amp; Hearth Red</p>
+         <p><strong>Animal:</strong> Honeybee</p>
+         <p><strong>Plant:</strong> Rosemary</p>
+         <p><strong>Personality:</strong> Culinara transforms simple ingredients with practiced hands and boundless creativity. She finds balance in flavors as in life, knowing when to follow tradition and when a dash of inspiration will create something entirely new.</p>
+         <p><strong>Parents:</strong> <a href="#Elthara" class="relation-link">Elthara</a> and <a href="#Aetherion" class="relation-link">Aetherion</a></p>
+         <p><strong>Spouse:</strong> None</p>
+         <p><strong>Siblings:</strong> <a href="#Embrithis" class="relation-link">Embrithis</a></p>
+         <p><strong>Children:</strong> None</p>
+       </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Domura" class="card-domura">
+          <img src="domura.png" alt="Domura Symbol">
+          <h3>Domura</h3>
+          <p><strong>Domain:</strong> Hearth, Home &amp; Family Bonds</p>
+          <p><strong>Pronouns:</strong> She/Her</p>
+          <p><strong>Symbol:</strong> Flame within a doorway</p>
+          <p><strong>Colors:</strong> Warm Terracotta &amp; Hearth Orange</p>
+          <p><strong>Animal:</strong> House Cat</p>
+          <p><strong>Plant:</strong> Hearthroot</p>
+          <p><strong>Personality:</strong> Domura embodies the quiet strength of home, her presence felt in every threshold crossed with respect. Patient and unwavering, she tends the sacred flame that transforms mere shelter into sanctuary.</p>
+          <p><strong>Parents:</strong> <a href="#Chaltheron" class="relation-link">Chaltheron</a> and <a href="#Orthanyx" class="relation-link">Orthanyx</a></p>
+          <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> None</p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <div id="Gemantra" class="card-gemantra">
+         <img src="gemantra.png" alt="Gemantra Symbol">
+         <h3>Gemantra</h3>
+         <p><strong>Domain:</strong> Mathematics, Patterns &amp; Sacred Geometry</p>
+         <p><strong>Pronouns:</strong> She/They</p>
+         <p><strong>Symbol:</strong> Golden spiral with compass</p>
+         <p><strong>Colors:</strong> Equation Black &amp; Golden Ratio Yellow</p>
+         <p><strong>Animal:</strong> Nautilus</p>
+         <p><strong>Plant:</strong> Fractal Fern</p>
+         <p><strong>Personality:</strong> Gemantra finds poetry in precision and beauty in perfect proportions. Their mind works in elegant equations that reveal the hidden architecture of reality, seeing patterns where others see only chaos.</p>
+         <p><strong>Parents:</strong> <a href="#Chronis" class="relation-link">Chronis</a></p>
+         <p><strong>Spouse:</strong> None</p>
+         <p><strong>Siblings:</strong> <a href="#Soltheron" class="relation-link">Soltheron</a>, <a href="#Lunthera" class="relation-link">Lunthera</a>, <a href="#Veydris" class="relation-link">Veydris</a>, and <a href="#Triumvira" class="relation-link" >The Triumvira (Nascentia, Tessa, Finalia)</a></p>
+         <p><strong>Children:</strong> None</p>
+       </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Heralys" class="card-heralys">
+          <img src="heralys.png" alt="Heralys Symbol">
+          <h3>Heralys</h3>
+          <p><strong>Domain:</strong> Messages, Boundaries &amp; Travel</p>
+          <p><strong>Pronouns:</strong> He/They</p>
+          <p><strong>Symbol:</strong> Winged sandal with scroll</p>
+          <p><strong>Colors:</strong> Quicksilver &amp; Amber</p>
+          <p><strong>Animal:</strong> Swift (bird)</p>
+          <p><strong>Plant:</strong> Mercury Plant</p>
+          <p><strong>Personality:</strong> Heralys moves like thought itself—here one moment, gone the next, their words precise and always meaningful. Neither bound by loyalty nor swayed by deception, they deliver truths exactly as they are without judgment.</p>
+          <p><strong>Parents:</strong> <a href="#Lyrannis" class="relation-link">Lyrannis</a> and <a href="#Faelys" class="relation-link">Faelys</a></p>
+          <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> None</p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <div id="Ludarius" class="card-ludarius">
+         <img src="ludarius.png" alt="Ludarius Symbol">
+         <h3>Ludarius</h3>
+         <p><strong>Domain:</strong> Games, Sport &amp; Friendly Competition</p>
+         <p><strong>Pronouns:</strong> He/Him</p>
+         <p><strong>Symbol:</strong> Dice with laurel wreath</p>
+         <p><strong>Colors:</strong> Playful Teal &amp; Victory Gold</p>
+         <p><strong>Animal:</strong> Dolphin</p>
+         <p><strong>Plant:</strong> Laurel</p>
+         <p><strong>Personality:</strong> Ludarius laughs freely and competes fiercely, but always with a twinkle in his eye. He teaches that the greatest victory is in the joy of play itself, and that even in defeat there are lessons worth winning.</p>
+         <p><strong>Parents:</strong> <a href="#Serendya" class="relation-link">Serendya</a> and <a href="#Harmysia" class="relation-link">Harmysia</a></p>
+         <p><strong>Spouse:</strong> None</p>
+         <p><strong>Siblings:</strong> <a href="#Chaltheron" class="relation-link">Chaltheron</a>, <a href="#Lyrannis" class="relation-link">Lyrannis</a>, and <a href="#Maritaya " class="relation-link">Maritaya </a></p>
+         <p><strong>Children:</strong> None</p>
+       </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <div id="Maritaya" class="card-maritaya">
+         <img src="maritaya.png" alt="Maritaya Symbol">
+         <h3>Maritaya</h3>
+         <p><strong>Domain:</strong> Marriage, Childbirth &amp; Family Bonds</p>
+         <p><strong>Pronouns:</strong> She/Her</p>
+         <p><strong>Symbol:</strong> Silver rings entwined with umbilical cord</p>
+         <p><strong>Colors:</strong> Royal Purple &amp; Ivory</p>
+         <p><strong>Animal:</strong> Swan</p>
+         <p><strong>Plant:</strong> Lily of the Valley</p>
+         <p><strong>Personality:</strong> Maritaya stands at life's most sacred thresholds—the joining of souls and the bringing forth of new life. Her gaze is both stern and tender, demanding respect for vows made and offering comfort to those in the pain of labor.</p>
+         <p><strong>Parents:</strong> <a href="#Serendya" class="relation-link">Serendya</a> and <a href="#Harmysia" class="relation-link">Harmysia</a></p>
+         <p><strong>Spouse:</strong> None</p>
+         <p><strong>Siblings:</strong> <a href="#Chaltheron" class="relation-link">Chaltheron</a>, <a href="#Lyrannis" class="relation-link">Lyrannis</a>, <a href="#Ludarius" class="relation-link">Ludarius</a></p>
+         <p><strong>Children:</strong> None</p>
+       </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Medeina" class="card-medeina">
+          <img src="medeina.png" alt="Medeina Symbol">
+          <h3>Medeina</h3>
+          <p><strong>Domain:</strong> Medicine, Cures &amp; Recovery</p>
+          <p><strong>Pronouns:</strong> She/Her</p>
+          <p><strong>Symbol:</strong> Mortar and pestle with healing herb</p>
+          <p><strong>Colors:</strong> Medicinal White &amp; Remedy Green</p>
+          <p><strong>Animal:</strong> Hummingbird</p>
+          <p><strong>Plant:</strong> White Willow</p>
+          <p><strong>Personality:</strong> Medeina works with methodical care, her hands steady and her knowledge vast. She sees suffering not as puzzle, not punishment, and where others offer comfort, she offers cure through patient study.</p>
+          <p><strong>Parents:</strong> <a href="#Embrithis" class="relation-link">Embrithis</a> and <a href="#Nythalos" class="relation-link">Nythalos</a></p>
+          <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> None</p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <div id="Pedagogus" class="card-pedagogus">
+         <img src="pedagogus.png" alt="Pedagogus Symbol">
+         <h3>Pedagogus</h3>
+         <p><strong>Domain:</strong> Teaching, Mentorship &amp; Education</p>
+         <p><strong>Pronouns:</strong> They/Them</p>
+         <p><strong>Symbol:</strong> Open book with flame</p>
+         <p><strong>Colors:</strong> Scholar Burgundy &amp; Wisdom Ivory</p>
+         <p><strong>Animal:</strong> Wise Parrot</p>
+         <p><strong>Plant:</strong> Cedar</p>
+         <p><strong>Personality:</strong> Pedagogus speaks with measured words that reveal more with each passing year. They see the spark in every mind and nurture it with patience, knowing that understanding grows slowly like the mightiest trees.</p>
+         <p><strong>Parents:</strong> <a href="#Veydris" class="relation-link">Veydris</a> and <a href="#Teralis" class="relation-link">Teralis</a></p>
+         <p><strong>Spouse:</strong> None</p>
+         <p><strong>Siblings:</strong> None</p>
+         <p><strong>Children:</strong> None</p>
+       </div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <div id="Rithmosa" class="card-rithmosa">
+         <img src="rithmosa.png" alt="Rithmosa Symbol">
+         <h3>Rithmosa</h3>
+         <p><strong>Domain:</strong> Rhythm, Music &amp; Performance</p>
+         <p><strong>Pronouns:</strong> She/Her</p>
+         <p><strong>Symbol:</strong> Double musical notes on staff</p>
+         <p><strong>Colors:</strong> Melody Blue &amp; Rhythm Gold</p>
+         <p><strong>Animal:</strong> Songbird</p>
+         <p><strong>Plant:</strong> Whispering Reeds</p>
+         <p><strong>Personality:</strong> Rithmosa moves with precise grace, each gesture a beat in an eternal composition. She finds order in patterns of sound and silence, teaching that life itself flows in measures and cadences.</p>
+         <p><strong>Parents:</strong> <a href="#Melithra" class="relation-link">Melithra</a> and <a href="#Kalthor" class="relation-link">Kalthor</a></p>
+         <p><strong>Spouse:</strong> <a href="#Somnorys" class="relation-link">Somnorys</a></p>
+         <p><strong>Siblings:</strong> <a href="#Architectura" class="relation-link">Architectura</a></p>
+         <p><strong>Children:</strong> <a href="#Animira" class="relation-link">Animira</a></p>
+       </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Somnorys" class="card-somnorys">
+          <img src="somnorys.png" alt="Somnorys Symbol">
+          <h3>Somnorys</h3>
+          <p><strong>Domain:</strong> Dreams, Sleep &amp; Subconscious</p>
+          <p><strong>Pronouns:</strong> They/Them</p>
+          <p><strong>Symbol:</strong> Crescent moon with star inside</p>
+          <p><strong>Colors:</strong> Midnight Blue &amp; Dream-Mist Gray</p>
+          <p><strong>Animal:</strong> Luna Moth</p>
+          <p><strong>Plant:</strong> Nightshade Blossom</p>
+          <p><strong>Personality:</strong> Somnorys speaks in whispers and visions, weaving stories in the darkness behind closed eyes. Neither cruel nor kind, they simply reveal what already exists within, whether beautiful or terrifying.</p>
+          <p><strong>Parents:</strong> <a href="#Mythora" class="relation-link">Mythora</a> and <a href="#Silvaris" class="relation-link">Silvaris</a></p>
+          <p><strong>Spouse:</strong> <a href="#Rithmosa" class="relation-link">Rithmosa</a></p>
+          <p><strong>Siblings:</strong> <a href="#Nythalos" class="relation-link">Nythalos</a></p>
+          <p><strong>Children:</strong> <a href="#Animira" class="relation-link">Animira</a></p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Triumvira" class="card-triumvira">
+          <img src="triumvira.png" alt="Triumvira Symbol">
+          <h3>The Triumvira</h3>
+          <p><strong>Domain:</strong> Fate, Destiny &amp; Life's Thread</p>
+          <p><strong>Pronouns:</strong> They/Them (collective)</p>
+          <p><strong>Symbol:</strong> Three interwoven threads</p>
+          <p><strong>Aspects:</strong> Nascentia (Beginning), Tessa (Measure), Finalia (End)</p>
+          <p><strong>Colors:</strong> Dawn Pink, Midday Gold &amp; Dusk Indigo</p>
+          <p><strong>Animal:</strong> Raven</p>
+          <p><strong>Plant:</strong> Flax</p>
+          <p><strong>Personality:</strong> These three sisters move as one consciousness in three bodies, each complementing the others' work. They neither hurry nor delay, for all things unfold exactly as the pattern requires.</p>
+          <p><strong>Origin:</strong> Born when Chronis' essence fragmented into three specialized forms</p>
+          <p><strong>Parent:</strong> <a href="#Chronis" class="relation-link">Chronis</a></p>
+          <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> <a href="#Soltheron" class="relation-link">Soltheron</a>, <a href="#Lunthera" class="relation-link">Lunthera</a>, <a href="#Veydris" class="relation-link">Veydris</a>, and <a href="#Gemantra" class="relation-link">Gemantra</a></p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Vinoryx" class="card-vinoryx">
+          <img src="vinoryx.png" alt="Vinoryx Symbol">
+          <h3>Vinoryx</h3>
+          <p><strong>Domain:</strong> Wine, Intoxication &amp; Liberation</p>
+          <p><strong>Pronouns:</strong> He/They</p>
+          <p><strong>Symbol:</strong> Twisted grapevine with goblet</p>
+          <p><strong>Colors:</strong> Wine Purple &amp; Ecstasy Gold</p>
+          <p><strong>Animal:</strong> Leopard</p>
+          <p><strong>Plant:</strong> Grapevine</p>
+          <p><strong>Personality:</strong> Vinoryx dances on the edge of reason, their revelry both dangerous and divine. He liberates minds from constraints, bringing either blessed release or terrible madness—sometimes both at once.</p>
+          <p><strong>Parents:</strong> <a href="#Corvanyx" class="relation-link">Corvanyx</a> and <a href="#Erythros" class="relation-link">Erythros</a></p>
+          <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> <a href="#Vovaris" class="relation-link"> Vovaris</a> and <a href="#Vindictrix" class="relation-link">Vindictrix</a></p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="Vovaris" class="card-vovaris">
+          <img src="vovaris.png" alt="Vovaris Symbol">
+          <h3>Vovaris</h3>
+          <p><strong>Domain:</strong> Oaths, Promises &amp; Binding Words</p>
+          <p><strong>Pronouns:</strong> He/Him</p>
+          <p><strong>Symbol:</strong> Clasped hands bound by golden thread</p>
+          <p><strong>Colors:</strong> Contract Parchment &amp; Binding Gold</p>
+          <p><strong>Animal:</strong> Spider</p>
+          <p><strong>Plant:</strong> Bindweed</p>
+          <p><strong>Personality:</strong> Vovaris stands immovable where words hold power. Neither words nor weaseling can undo what has been sworn in his presence, and he watches all contracts with impartial, unwavering eyes.</p>
+          <p><strong>Parents:</strong> <a href="#Erythros" class="relation-link">Erythros</a> and <a href="#Corvanyx" class="relation-link">Corvanyx</a></p>
+          <p><strong>Spouse:</strong> None</p>
+          <p><strong>Siblings:</strong> <a href="#Vinoryx" class="relation-link"> Vinoryx</a> and <a href="#Vindictrix" class="relation-link">Vindictrix</a></p>
+          <p><strong>Children:</strong> None</p>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
