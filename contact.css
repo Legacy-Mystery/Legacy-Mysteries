@@ -1,0 +1,84 @@
+/* Section Styling */
+section {width: 80%;margin: 20px auto;padding: 20px;background-color: #000000;box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);border-radius: 8px;}
+
+label {text-align: center}
+/* Form Styling */
+
+form {display: flex;flex-direction: column;padding: 15px;}
+
+form label {font-size: 18px;color: goldenrod; /* Dark earthy color */}
+
+form input, form textarea {padding: 10px;
+  font-size: 16px;border: 1px solid #d3a15c; /* Golden-brown border to match color scheme */border-radius: 5px;width: 100%;box-sizing: border-box;background-color: #f9f9f9;color: #000000;}
+
+form input[type="submit"] {background-color: purple; color: white;border: none;cursor: pointer;font-size: 18px;transition: background-color 0.3s ease;}
+
+
+/* Contact Me Page Styles */
+body {font-family: 'Arial', sans-serif;background-color: #39004c; margin: 0;padding: 0;}
+
+header {background-color: #000000; /* Dark header background */padding: 20px 0;text-align: center;color: goldenrod; /* Gold text color */}
+
+h1 {font-size: 36px;margin: 0;text-align: center;}
+
+h2 {font-size: 28px;margin-top: 20px;text-decoration: underline;color: goldenrod; text-align: center/* Gold color for section titles */}
+
+p {text-align: center; ; color: #be00ff}
+
+ul {list-style-position: inside; color: #be00ff}
+
+nav {display: flex;justify-content: center;background-color: #39004c; /* Dark background for the navigation */padding: 10px 0; text-align: center}
+
+form {color: goldenrod; padding: 40px}
+
+a {color: goldenrod; text-decoration: none; padding: 15px 25px;font-size: 18px; text-align: center}
+
+nav a {color: goldenrod;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #be00ff;border-radius: 50px}
+
+a:hover {color: #000000;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: goldenrod;border-style: solid;border-color: #be00ff}
+
+h3{color: goldenrod; text-align: center; font-size: 30px}
+
+.contact-content {padding: 30px;text-align: center;}
+
+.contact-content h2 {font-size: 24px;margin-top: 20px;color: #FFD700; /* Gold color for section titles */}
+
+.contact-content p {font-size: 18px;line-height: 1.6;max-width: 900px;margin: 0 auto;}
+
+.contact-content .form-container {background-color: #2c2c2c; /* Dark background for the form */padding: 20px;margin-top: 30px;border-radius: 10px;}
+
+.contact-content form {display: flex;flex-direction: column;align-items: center;}
+
+
+.contact-content textarea {background-color: #444; /* Dark background for form fields */color: #ffffff; /* White text inside fields */border: 2px solid goldenrod; /* Gold border for fields */padding: 10px;margin: 10px;width: 80%;border-radius: 5px;}
+
+.contact-content input[type="submit"] {background-color: goldenrod; /* Gold background for the submit button */color: #333; /* Dark text for the submit button */border: none;cursor: pointer;padding: 15px 25px;font-size: 20px;text-transform: uppercase;}
+
+.contact-content input[type="submit"]:hover {background-color: #ffcc00; /* Slightly lighter gold on hover */}
+
+.contact {display: flex;justify-content: center;align-content: center;flex-wrap: wrap;
+  color: goldenrod;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #be00ff;border-radius: 50px; text-align: center}
+/* Responsive Design */
+@media (max-width: 768px)
+.contact-content {padding: 15px;}
+
+.contact-content h2 {font-size: 22px;}
+
+.contact-content p {font-size: 16px;}
+
+.contact-content input,
+.contact-content textarea {width: 90%; font-size: 16px;}
+  
+.contact-content .social-links a {font-size: 16px; padding: 10px 15px;}
+
+.contact-content input[type="submit"]
+
+ul {text-align: center;list-style: armenian}
+
+ul li {display: inline-block;margin: 10px;}
+
+.back-to-top {color: goldenrod;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #be00ff;border-radius: 50px;}
+
+.back-to-top:hover {color: #000000;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: goldenrod;border-style: solid;border-color: #be00ff}
+
+footer {background-color: #39004c; padding: 15px; text-align: center; color: #ffffff; margin-top: 50px;}
