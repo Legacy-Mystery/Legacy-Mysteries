@@ -1,76 +1,35 @@
-  <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #000000;
-            color: #ffffff;
-            margin: 0;
-            padding: 0;
-        }
+body {font-family: 'Arial', sans-serif;background-color: #000000;color: #ffffff; margin: 0; padding: 0;}
 
-        header {
-            background-color: #000000;
-            padding: 20px 0;
-            text-align: center;
-            color: goldenrod;
-        }
+header {background-color: #000000; padding: 20px 0; text-align: center; color: goldenrod;}
 
-        main {
-            padding-left: 10px;
-            padding-right: 10px;
-        }
+main {padding-left: 10px;padding-right: 10px}
 
-        h1 {
-            font-size: 36px;
-            margin: 0;
-        }
+h1 {font-size: 36px; margin: 0;}
 
-        h2 {
-            font-size: 24px;
-            margin-top: 20px;
-            color: goldenrod;
-            text-align: center;
-        }
+h2 {font-size: 24px; margin-top: 20px;; color: goldenrod; text-align: center}
+p {; color: #be00ff; text-align: center}
+ul{list-style-position: inside;}
+nav {display: flex;justify-content: center;background-color: #39004c;padding: 10px 0;}
 
-        p {
-            color: #be00ff;
-            text-align: center;
-        }
+nav a {color: #d9a520;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #be00ff;border-radius: 50px}
 
-        section {
-            text-align: center;
-            margin: 30px auto;
-            padding: 20px;
-            border: 2px solid #be00ff;
-            border-radius: 10px;
-            max-width: 800px;
-            background-color: #39004c;
-        }
+href {text-align: center}
 
-        a {
-            color: goldenrod;
-            text-align: center;
-            justify-content: center;
-            text-decoration: none;
-            display: inline-block;
-            margin-top: 10px;
-            padding: 1px 25px;
-            background-color: #000000;
-            border-style: solid;
-            border-color: #be00ff;
-            border-radius: 50px;
-        }
+a {color:goldenrod;text-align: center;justify-content: center}
+.main-content {padding: 30px;}
 
-        a:hover {
-            color: #000000;
-            background-color: goldenrod;
-            border-color: #be00ff;
-        }
+a:hover {color: #000000;text-decoration: none;padding: 1px 25px;background-color: goldenrod;border-style: solid;border-color: #be00ff}
 
-        footer {
-            background-color: #39004c;
-            padding: 15px;
-            text-align: center;
-            color: #ffffff;
-            margin-top: 50px;
-        }
-    </style>
+.learn-more {display: inline-block; text-align: center;color:goldenrod;background-color: #39004c;padding: 1px 25px;border-style: solid; border-color: #be00ff;border-radius: 50px;width: fit-content; text-decoration: none}
+
+section{text-align: center}
+
+.main-content .button {background-color: goldenrod;color: #333;border: none;padding: 15px 25px;font-size: 20px;cursor: pointer;text-transform: uppercase;margin-top: 30px;text-align: center}
+
+.main-content .button:hover {background-color: #ffcc00;text-align: center}
+
+footer {background-color: #39004c; padding: 15px; text-align: center; color: #ffffff; margin-top: 50px;}
+
+.back-to-top {color: #FFD700;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #be00ff;border-radius: 50px;}
+
+.back-to-top:hover {color: #000000;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: goldenrod;border-style: solid;border-color: #be00ff}
