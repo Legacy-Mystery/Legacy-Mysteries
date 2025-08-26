@@ -1,0 +1,86 @@
+body {font-family: 'Arial', sans-serif;background-color: #000000;color: #ffffff; margin: 0; padding: 0;}
+
+header {background-color: #39004c; padding: 20px 0; text-align: center; color: goldenrod;}
+
+h1 {font-size: 36px; margin: 0;}
+
+h2 {font-size: 30px; margin-top: 20px; text-decoration: underline;text-align: center; color: goldenrod}
+
+h3 {font-size: 20px; margin-top: 20px; text-align: center;}
+
+p {text-align: center}
+
+img{padding-top: 20px}
+nav {display: flex;justify-content: center;background-color: #39004c; padding: 10px 0; text-align: center}
+nav a {color: goldenrod;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #be00ff;border-radius: 50px}
+a:hover {color: #000000;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: goldenrod;border-style: solid;border-color: #be00ff}
+
+.card-container-Azrael{justify-content: center;display: flex;flex-direction: column;flex-wrap: wrap;margin: 20px;padding: 20px}
+.Azrael{color: #000052;justify-content: center;display: flex;flex-direction: column;flex-wrap: wrap;margin: 20px;padding: 20px}
+.card-Azrael {background:linear-gradient(to bottom left,#4c248a, #555555);border-color: #320075;border-style:solid;padding-bottom: 20px;align-content: center}
+.card-Azrael ul{list-style-position: inside;padding: 0px;margin: 0px}
+.card-Azrael li{padding-bottom: 5px;font-weight: bolder}
+.card-Azrael strong {color:#3d668b}
+.Azrael-img{width: 300px;align-items:center;border-style: solid;border-color: #320075;border-width:10px;padding-top: 0px}
+.Doctorate-Azrael1 {padding-left: 20px;padding-right: 20px;width:500px;height:375px}
+.Doctorate-Azrael2 {padding-right: 20px;padding-left: 20px;width:500px;height:375px}
+.Azrael-images{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;}
+.Azrael-nav{display: flex;justify-content: center;background:linear-gradient(to left,#4c248a, #555555); padding: 10px; text-align: center}
+.Azrael-nav a{color: #000052;background-color: #555555;border-color: #000052}
+.Azrael-nav a:hover{color: #555555;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000052;border-style: solid;border-color: black}
+
+
+.card-container-Biene{justify-content: center;display: flex;flex-direction: column;flex-wrap: wrap;margin: 20px;padding: 20px}
+.Biene{color: #c38b00;justify-content: center;display: flex;flex-wrap: wrap;flex-direction: column}
+.card-Biene {background: linear-gradient(to left,#ffafcc ,#cbffe5,#bdf0ff);border-color: #efc1ff;border-style:solid;padding-bottom: 20px;align-content: center}
+.card-Biene ul{list-style-position: inside;padding: 0px;margin: 0px}
+.card-Biene li{padding-bottom: 5px;font-weight: bolder}
+.card-Biene strong {color:#3d0d61}
+.Biene-img{width: 300px;align-items:center;border-style: solid;border-color: #efc1ff;border-width:10px;padding-top: 0px}
+.Doctorate{width:500px; height: 386px;padding-right: 30px}
+.Biene-nav{display: flex;justify-content: center;background: linear-gradient(to left,#ffafcc ,#cbffe5,#bdf0ff); padding: 10px 0; text-align: center}
+.Biene-nav a{color: #c38b00;background-color: #efc1ff;border-color: #c38b00}
+.Biene-nav a:hover{color: #efc1ff;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #c38b00;border-style: solid;border-color: #efc1ff}
+
+ul{list-style-position: inside; color: #be00ff; text-align: center}
+li{padding-bottom: 5px;font-weight: bold}
+
+
+
+.card-container-Amelia{justify-content: center;display: flex;flex-direction: column;flex-wrap: wrap;margin: 20px;padding: 20px}
+.Amelia{color: #dc143c;align-items: center;display: flex;flex-wrap: wrap;flex-direction: column;padding-left: 20px;padding-right: 20px}
+.card-Amelia {background: radial-gradient(#701b53,#460000);border-color: crimson;border-style:solid;padding-bottom: 20px;align-content: center}
+.Amelia-img{width: 300px;align-items:center;border-style: solid;border-color: crimson;border-width:10px;padding-top: 0px}
+.Amelia-insignia {width:200px;height: 200px;align-items:center;padding-right: 30px;padding-left: 30px}
+.Amelia-ring {padding-right: 20px;width: 350px;height: 270.2px;padding-left:0px}
+.card-Amelia ul{list-style-position: inside;padding: 0px;margin: 0px}
+.card-Amelia li{padding-bottom: 5px;font-weight: bolder}
+.Amelia-nav{display: flex;justify-content: center;background: radial-gradient(#701b53,#460000); padding: 10px 0; text-align: center}
+.Amelia-nav a{color: crimson;background-color: #460000;border-color: crimson}
+.Amelia-nav a:hover{color: #460000;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: crimson;border-style: solid;border-color: black}
+
+.card-container-Einar{justify-content: center;display: flex;flex-direction: column;flex-wrap: wrap;margin: 20px;padding: 20px}
+.Einar{color: #29297d;align-items: center;display: flex;flex-wrap: wrap;flex-direction: column;padding-left: 20px;padding-right: 20px}
+.card-Einar {background: linear-gradient(to bottom right,#517692,#565192,#7e5192, #92518b);border-color: #29297d;border-style:solid;padding-bottom: 20px;align-content: center}
+.card-Einar ul{list-style-position: inside;padding: 0px;margin: 0px}
+.card-Einar li{padding-bottom: 5px;font-weight: bolder}
+.card-Einar strong {color:#ecd3ff}
+.Einar-img{width: 300px;align-items:center;border-style: solid;border-color: #29297d;border-width:10px;padding-top: 0px}
+.Einar-nav {display: flex;justify-content: center;background: linear-gradient(to bottom right,#517692,#565192,#7e5192, #92518b); padding: 10px 0; text-align: center}
+.Einar-nav a{color: #29297d;background-color: #92518b;border-color: #29297d}
+.Einar-nav a:hover{color: #92518b;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #29297d;border-style: solid;border-color: black}
+.Einar-map {width:500px;height: 386px;padding-right: 30px}
+
+
+.card-container-Alexios{justify-content: center;display: flex;flex-direction: column;flex-wrap: wrap;margin: 20px;padding: 20px}
+.Alexios {color:#cbffe5;align-items: center;display: flex;flex-wrap: wrap;flex-direction: column;padding-left: 20px;padding-right: 20px}
+.card-Alexios {background:linear-gradient(to bottom, #0d614e,#007777,#000077);border-color: #cbffe5;border-style:solid;padding-bottom: 20px;align-content: center}
+.card-Alexios ul{list-style-position: inside;padding: 0px;margin: 0px}
+.card-Alexios li{padding-bottom: 5px;font-weight: bolder}
+.card-Alexios strong {color:#8484ff}
+.Alexios-img{width: 300px;align-items:center;border-style: solid;border-color: #cbffe5;border-width:10px;padding-top: 0px}
+.Vhalora{width: 500px;height: 386px;padding-right: 30px;}
+.Dive-log {width:500px;height: 332px;padding-left: 30px}
+.Alexios-nav{display: flex;justify-content: center;background-color: #000077; padding: 10px 0; text-align: center}
+.Alexios-nav a{color: #cbffe5;background-color: #0d614e;border-color: #cbffe5}
+.Alexios-nav a:hover{color: #0d614e;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #cbffe5;border-style: solid;border-color: black}
