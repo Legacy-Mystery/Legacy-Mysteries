@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="Blades-of-Phorathos.css">
+  </head>
+  <body>
+    <header>
+      <h1>Blades of Phorathos</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li><br>
+          <li><a href="Prequels.html">Go Back</a></li><br>
+          <li><a href="Shadows_of_the_Past.html">Shadows of the Past</a></li><br>
+          <li><a href="contact.html">Contact</a></li><br>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+    <h2>Cover</h2>
+    <style>
+      .book-wrap {display: flex;justify-content: center;align-items: center;column-gap:10px;margin-top:20px;}
+      .cover {width: 175px;height: 355px;}
+      .spine {width: 75px;height: 355px;}
+    </style>
+    <div class="book-wrap">
+      <img src="Blades-of-Phorathos-Cover.png" alt="Book Cover" class="cover">
+      <img src="Blades-of-Phorathos-Spine.png" alt="Book Spine" class="spine">
+      <img src="Blades-of-Phorathos-Back-Cover.png" alt="Back Cover" class="cover">
+    </div>
+    <section id="characters">
+      <h2>Character List</h2>
+      <ul>
+        <li><strong>Amelia Sabré</strong> – A famous fencer from a well known and prosperous family. She strives to follow in her family's legacy and be a champion in the Bladeport annual "Thunder Blade" Tournament. </li>
+        <li><strong>Fiero Sabré</strong> – </li>
+        <li><strong>Boris Sabré</strong> – </li>
+        <li><strong></strong> – </li>
+        <li><strong></strong> – </li>
+        <li><strong></strong> – </li>
+      </ul>
+    </section>
+  </body>
+</html>
