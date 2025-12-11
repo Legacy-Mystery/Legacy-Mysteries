@@ -1,0 +1,16 @@
+body {background: #661c3a;font-family: 'Arial', sans-serif;color: #ffffff; margin: 0; padding: 0;}
+p {color: black;}
+h1 {font-weight: bold;}
+header {background-color: #920041;padding: 20px 0;text-align: center; color: black;z-index: -2}
+p {text-align: center; ; color: #920041;z-index:1}
+
+ul{list-style-position: inside; color: #ff8d8d; text-align: center;z-index:1}
+nav {display: flex; justify-content: center; background-color: #661c3a; padding: 10px 0;z-index:-2}
+
+a {color: #ff8d8d; text-decoration: none; padding: 15px 25px;font-size: 18px; text-align: center}
+
+nav a {color: #ff8d8d;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #000000;border-style: solid;border-color: #920041;border-radius: 50px}
+
+a:hover {color: #661c3a;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color:#ff8d8d ;border-style: solid;border-color: #000000}
+
+h2 {font-size: 28px; margin-top: 20px; text-decoration: underline;text-align: center; color: #920041;z-index:1}
